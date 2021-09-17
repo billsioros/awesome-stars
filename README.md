@@ -82,6 +82,7 @@
 - [chatziko/lci](https://github.com/chatziko/lci) - A lambda calculus interpeter
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [giorgospan/Game-Of-Life](https://github.com/giorgospan/Game-Of-Life) - Conway's Game Of Life implemented using MPI & OpenMP
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper.
 
 ## C# # 
@@ -198,7 +199,6 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [danmar/cppcheck](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
 - [jbcoe/polymorphic_value](https://github.com/jbcoe/polymorphic_value) - A polymorphic value-type for C++
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [souffle-lang/souffle](https://github.com/souffle-lang/souffle) - Soufflé is a variant of Datalog for tool designers crafting analyses in Horn clauses. Soufflé synthesizes a native parallel C++ program from a logic specification.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [JoeyDeVries/Cell](https://github.com/JoeyDeVries/Cell) - OpenGL C++ Graphics Engine
@@ -538,6 +538,7 @@
 
 ## Python 
 
+- [brettcannon/gidgethub](https://github.com/brettcannon/gidgethub) - An async GitHub API library for Python
 - [asottile/yesqa](https://github.com/asottile/yesqa) - Automatically remove unnecessary `# noqa` comments
 - [gabrielfalcao/HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP client mocking tool for Python - inspired by Fakeweb for Ruby
 - [illBeRoy/taskipy](https://github.com/illBeRoy/taskipy) - the complementary task runner for python
