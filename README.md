@@ -245,7 +245,7 @@
 
 ## Dart 
 
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 A music app with a beautiful UI to play local music & YouTube music. Distributes music into albums & artists. Has playlists & lyrics.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 A beautiful music app play local music & YouTube music. Distributes music into albums & artists. Has playlists & lyrics.
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [Hexer10/youtube_explode_dart](https://github.com/Hexer10/youtube_explode_dart) - Port of YoutubeExplode to dart
 - [flutterchina/dio](https://github.com/flutterchina/dio) - A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
