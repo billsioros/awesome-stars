@@ -544,9 +544,11 @@
 
 ## Python 
 
+- [JelteF/PyLaTeX](https://github.com/JelteF/PyLaTeX) - A Python library for creating LaTeX files
+- [lark-parser/lark](https://github.com/lark-parser/lark) - Lark is a parsing toolkit for Python, built with a focus on ergonomics, performance and modularity.
 - [salesforce/Merlion](https://github.com/salesforce/Merlion) - Merlion: A Machine Learning Framework for Time Series Intelligence
 - [gawel/pyquery](https://github.com/gawel/pyquery) - A jquery-like library for python
-- [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - Interactive Python object explorer for the terminal
+- [kylepollina/objexplore](https://github.com/kylepollina/objexplore) - A terminal UI to inspect and explore Python objects
 - [brettcannon/gidgethub](https://github.com/brettcannon/gidgethub) - An async GitHub API library for Python
 - [asottile/yesqa](https://github.com/asottile/yesqa) - Automatically remove unnecessary `# noqa` comments
 - [gabrielfalcao/HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - HTTP client mocking tool for Python - inspired by Fakeweb for Ruby
