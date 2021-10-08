@@ -82,7 +82,6 @@
 - [chatziko/lci](https://github.com/chatziko/lci) - A lambda calculus interpeter
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [giorgospan/Game-Of-Life](https://github.com/giorgospan/Game-Of-Life) - Conway's Game Of Life implemented using MPI & OpenMP
-- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 - [SRombauts/SQLiteCpp](https://github.com/SRombauts/SQLiteCpp) - SQLiteC++ (SQLiteCpp) is a smart and easy to use C++ SQLite3 wrapper.
 
 ## C# # 
@@ -551,6 +550,7 @@
 
 ## Python 
 
+- [TriOptima/iommi](https://github.com/TriOptima/iommi) - Your first pick for a django power cord
 - [lyst/lightfm](https://github.com/lyst/lightfm) - A Python implementation of LightFM, a hybrid recommendation algorithm.
 - [maciejkula/spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
 - [tensorlayer/srgan](https://github.com/tensorlayer/srgan) - Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network
@@ -926,6 +926,7 @@
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub) - Typed interactions with the GitHub API v3
+- [commaai/openpilot](https://github.com/commaai/openpilot) - openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 100 supported car makes and models.
 
 ## QML 
 
