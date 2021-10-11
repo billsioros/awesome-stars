@@ -551,6 +551,9 @@
 
 ## Python 
 
+- [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming
+- [sixty-north/asq](https://github.com/sixty-north/asq) - asq is simple implementation of a LINQ-inspired API for Python which operates over Python iterables
+- [kayak/pypika](https://github.com/kayak/pypika) - PyPika is a python SQL query builder that exposes the full richness of the SQL language using a syntax that reflects the resulting query. PyPika excels at all sorts of SQL queries but is especially useful for data analysis.
 - [TriOptima/iommi](https://github.com/TriOptima/iommi) - Your first pick for a django power cord
 - [lyst/lightfm](https://github.com/lyst/lightfm) - A Python implementation of LightFM, a hybrid recommendation algorithm.
 - [maciejkula/spotlight](https://github.com/maciejkula/spotlight) - Deep recommender models using PyTorch.
