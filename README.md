@@ -180,7 +180,7 @@
 - [agauniyal/rang](https://github.com/agauniyal/rang) - A Minimal, Header only Modern c++ library for terminal goodies 💄✨
 - [pybind/pybind11](https://github.com/pybind/pybind11) - Seamless operability between C++11 and Python
 - [kritonp/k-means](https://github.com/kritonp/k-means) - A k-means clustering
-- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
+- [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++
 - [nemequ/hedley](https://github.com/nemequ/hedley) - A C/C++ header to help move #ifdefs out of your code
 - [PanosK92/SpartanEngine](https://github.com/PanosK92/SpartanEngine) - Game engine with an emphasis on architectual quality and performance
@@ -701,7 +701,7 @@
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
 - [Erotemic/ubelt](https://github.com/Erotemic/ubelt) - A Python utility belt containing simple tools, a stdlib like feel, and extra batteries. Hashing, Caching, Timing, Progress, and more made easy!
 - [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog) - Python library and shell utilities to monitor filesystem events.
-- [enigmampc/catalyst](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
+- [scrtlabs/catalyst](https://github.com/scrtlabs/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python
 - [tomerfiliba/plumbum](https://github.com/tomerfiliba/plumbum) - Plumbum: Shell Combinators
 - [benjaminp/six](https://github.com/benjaminp/six) - Python 2 and 3 compatibility library
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
