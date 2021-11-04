@@ -86,6 +86,7 @@
 
 ## C# # 
 
+- [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 - [SebLague/Portals](https://github.com/SebLague/Portals) - Portals in Unity
 - [AutoMapper/AutoMapper](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET.
@@ -116,6 +117,7 @@
 
 ## C++ 
 
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [pytorch/xla](https://github.com/pytorch/xla) - Enabling PyTorch on Google TPU
 - [ArkScript-lang/Ark](https://github.com/ArkScript-lang/Ark) - ArkScript is a small, fast, functional and scripting language for C++ projects
@@ -361,6 +363,7 @@
 
 ## JavaScript 
 
+- [viscom-ulm/Net2Vis](https://github.com/viscom-ulm/Net2Vis) - Automatic neural network visualizations generated in your browser!
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [acdlite/recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components.
@@ -558,6 +561,7 @@
 
 ## Python 
 
+- [Bouke/django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth) - Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [Xython/Linq.py](https://github.com/Xython/Linq.py) - Just as the name suggested.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻  A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!
@@ -1059,7 +1063,7 @@
 
 ## TypeScript 
 
-- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 💌 产品的开源通知基础设施。轻松创建通知中心，多渠道向客户发送消息 | Notification Infrastructure
+- [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
 - [cweijan/vscode-database-client](https://github.com/cweijan/vscode-database-client) - Database Client For Visual Studio Code
