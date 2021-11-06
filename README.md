@@ -561,6 +561,7 @@
 
 ## Python 
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [Bouke/django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth) - Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
 - [Xython/Linq.py](https://github.com/Xython/Linq.py) - Just as the name suggested.
@@ -699,7 +700,7 @@
 - [pexpect/pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
 - [amitt001/delegator.py](https://github.com/amitt001/delegator.py) - Subprocesses for Humans 2.0.
 - [saltstack/salt](https://github.com/saltstack/salt) - Software to automate the management and configuration of any infrastructure or application at scale. Get access to the Salt software package repository here:
-- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡⚡⚡Fast, Lightweight, Pluggable, TLS interception capable proxy server focused on Network monitoring, controls & Application development, testing, debugging
+- [abhinavsingh/proxy.py](https://github.com/abhinavsingh/proxy.py) - ⚡⚡⚡Fast, Lightweight, Pluggable, TLS interception, DNS-over-HTTPS capable, Reverse & Forward Proxy Server focused on Network auditing, monitoring & Application development, testing, debugging
 - [cjolowicz/nox-poetry](https://github.com/cjolowicz/nox-poetry) - Use Poetry inside Nox sessions
 - [pytest-dev/pluggy](https://github.com/pytest-dev/pluggy) - A minimalist production ready plugin system
 - [Delgan/loguru](https://github.com/Delgan/loguru) - Python logging made (stupidly) simple
@@ -1019,6 +1020,7 @@
 
 ## Shell 
 
+- [wimpysworld/quickemu](https://github.com/wimpysworld/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
