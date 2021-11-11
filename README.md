@@ -58,7 +58,7 @@
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
 - [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
-- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget. Please follow Documentation/SubmittingPatches procedure for any of your improvements.
+- [git/git](https://github.com/git/git) - Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [microsoft/WSL2-Linux-Kernel](https://github.com/microsoft/WSL2-Linux-Kernel) - The source for the Linux kernel used in Windows Subsystem for Linux 2 (WSL2)
@@ -440,7 +440,7 @@
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [geddski/macros](https://github.com/geddski/macros) - macros support for VS Code
 - [appbaseio/reactivesearch](https://github.com/appbaseio/reactivesearch) - Search UI components for React and Vue: powered by appbase.io / Elasticsearch
-- [mdx-js/mdx](https://github.com/mdx-js/mdx) - JSX in Markdown for ambitious projects
+- [mdx-js/mdx](https://github.com/mdx-js/mdx) - Markdown for the component era
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Next generation Brave browser for Android, Linux, macOS, Windows.
 - [GoogleChromeLabs/ProjectVisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - FireBug for designers › Edit any webpage, in any state https://a.nerdy.dev/gimme-visbug
 - [Learus/EAM_Eudox](https://github.com/Learus/EAM_Eudox) - 
@@ -1070,6 +1070,7 @@
 
 ## TypeScript 
 
+- [guess-js/guess](https://github.com/guess-js/guess) - 🔮 Libraries & tools for enabling Machine Learning driven user-experiences on the web
 - [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - Fig adds autocomplete to your terminal.
 - [kimlimjustin/xplorer](https://github.com/kimlimjustin/xplorer) - Xplorer, a customizable, modern file manager
