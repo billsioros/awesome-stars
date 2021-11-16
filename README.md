@@ -510,7 +510,6 @@
 
 ## Others 
 
-- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [soumith/ganhacks](https://github.com/soumith/ganhacks) - starter from "How to Train a GAN?" at NIPS2016
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
@@ -564,10 +563,13 @@
 
 ## Python 
 
+- [dabeaz/ply](https://github.com/dabeaz/ply) - Python Lex-Yacc
+- [rasbt/mlxtend](https://github.com/rasbt/mlxtend) - A library of extension and helper modules for Python's data analysis and machine learning libraries.
 - [paulgavrikov/visualkeras](https://github.com/paulgavrikov/visualkeras) - Visualkeras is a Python package to help visualize Keras (either standalone or included in TensorFlow) neural network architectures. It allows easy styling to fit most needs. This module supports layered style architecture generation which is great for CNNs (Convolutional Neural Networks), and a graph style architecture, which works great for most models including plain feed-forward networks.
 - [rougier/matplotlib-3d](https://github.com/rougier/matplotlib-3d) - Experimental 3D axis for matplotlib
 - [rougier/ML-Recipes](https://github.com/rougier/ML-Recipes) - A collection of stand-alone Python machine learning recipes
 - [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy) - An open-access book on numpy vectorization techniques, Nicolas P. Rougier, 2017
+- [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book) - An open access book on scientific visualization using python and matplotlib
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [Bouke/django-two-factor-auth](https://github.com/Bouke/django-two-factor-auth) - Complete Two-Factor Authentication for Django providing the easiest integration into most Django projects.
 - [aws/chalice](https://github.com/aws/chalice) - Python Serverless Microframework for AWS
