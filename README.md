@@ -564,6 +564,7 @@
 
 ## Python 
 
+- [jupyter/jupyter](https://github.com/jupyter/jupyter) - Jupyter metapackage for installation, docs and chat
 - [eliben/pycparser](https://github.com/eliben/pycparser) - :snake: Complete C99 parser in pure Python
 - [fhamborg/news-please](https://github.com/fhamborg/news-please) - news-please - an integrated web crawler and information extractor for news that just works
 - [dabeaz/ply](https://github.com/dabeaz/ply) - Python Lex-Yacc
@@ -687,7 +688,7 @@
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [dephell/dephell](https://github.com/dephell/dephell) - :package: :fire: Python project management. Manage packages: convert between formats, lock, install, resolve, isolate, test, build graph, show outdated, audit. Manage venvs, build package, bump version.
 - [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy) - A data augmentations library for audio, image, text, and video.
-- [life4/deal](https://github.com/life4/deal) - Design by contract for Python with static checker and tests' generation.
+- [life4/deal](https://github.com/life4/deal) - Design by contract for Python. Write bug-free code. Add a few decorators, get static analysis and tests for free.
 - [andreoliwa/nitpick](https://github.com/andreoliwa/nitpick) - Enforce the same settings on multiple projects
 - [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib) - matplotlib: plotting with Python
 - [PyCQA/flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) - A plugin for Flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.
