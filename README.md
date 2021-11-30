@@ -130,7 +130,7 @@
 - [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, tests enabler - High performance
 - [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
 - [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
-- [onqtam/doctest](https://github.com/onqtam/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework
+- [doctest/doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd) - C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, NEON, AVX512)
 - [hugoam/toy](https://github.com/hugoam/toy) - the thin c++ game engine
@@ -188,7 +188,7 @@
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++
 - [nemequ/hedley](https://github.com/nemequ/hedley) - A C/C++ header to help move #ifdefs out of your code
-- [PanosK92/SpartanEngine](https://github.com/PanosK92/SpartanEngine) - Game engine with an emphasis on architectual quality and performance
+- [PanosK92/SpartanEngine](https://github.com/PanosK92/SpartanEngine) - Game engine with an emphasis on architectural quality and performance
 - [PanosK92/imgui](https://github.com/PanosK92/imgui) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 - [jnferguson/hpack-rfc7541](https://github.com/jnferguson/hpack-rfc7541) - header-only c++ implementation of a HTTPv2 HPACK/RFC7541 encoder /decoder
 - [muellan/clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
@@ -368,6 +368,7 @@
 
 ## JavaScript 
 
+- [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
 - [viscom-ulm/Net2Vis](https://github.com/viscom-ulm/Net2Vis) - Automatic neural network visualizations generated in your browser!
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
