@@ -369,6 +369,7 @@
 
 ## JavaScript 
 
+- [fent/node-ytdl](https://github.com/fent/node-ytdl) - Command line youtube video downloader.
 - [possan/webapi-player-example](https://github.com/possan/webapi-player-example) - An attempt at recreating the spotify player using only the Web API's
 - [websockets/ws](https://github.com/websockets/ws) - Simple to use, blazing fast and thoroughly tested WebSocket client and server for Node.js
 - [postmanlabs/newman](https://github.com/postmanlabs/newman) - Newman is a command-line collection runner for Postman
