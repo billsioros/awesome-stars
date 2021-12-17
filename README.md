@@ -1132,7 +1132,7 @@
 - [peaceiris/actions-label-commenter](https://github.com/peaceiris/actions-label-commenter) - Label Commenter Action: Label triggered GitHub Action for posting a template comment, and automatically open/close/lock/unlock issues or pull-requests.
 - [peter-evans/create-pull-request](https://github.com/peter-evans/create-pull-request) - A GitHub action to create a pull request for changes to your repository in the actions workspace
 - [albertromkes/tabout](https://github.com/albertromkes/tabout) - Tab out of quotes, brackets, etc for Visual Studio Code
-- [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
+- [coder/code-server](https://github.com/coder/code-server) - VS Code in the browser
 - [pmndrs/jotai](https://github.com/pmndrs/jotai) - 👻 Primitive and flexible state management for React
 - [alan2207/bulletproof-react](https://github.com/alan2207/bulletproof-react) - 🛡️ ⚛️ A simple, scalable, and powerful architecture for building production ready React applications.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self-host.
