@@ -1199,7 +1199,7 @@
 - [DonJayamanne/pythonVSCode](https://github.com/DonJayamanne/pythonVSCode) - This extension is now maintained in the Microsoft fork.
 - [jest-community/vscode-jest](https://github.com/jest-community/vscode-jest) - The optimal flow for Jest based testing in VS Code
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age (formerly Terminus)
+- [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) - Official repository for the Microsoft C/C++ extension for VS Code.
 - [Almenon/AREPL-vscode](https://github.com/Almenon/AREPL-vscode) - Program python in real-time
