@@ -129,7 +129,7 @@
 - [leanprover/lean](https://github.com/leanprover/lean) - Lean Theorem Prover
 - [flashlight/wav2letter](https://github.com/flashlight/wav2letter) - Facebook AI Research's Automatic Speech Recognition Toolkit
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
-- [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ profiler, tests enabler - High performance
+- [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and nanosecond C++ profiler, logger, tests enabler
 - [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
 - [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
 - [doctest/doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20 single-header testing framework
