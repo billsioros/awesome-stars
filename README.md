@@ -1126,6 +1126,7 @@
 
 ## TypeScript 
 
+- [JMPerez/spotify-web-api-js](https://github.com/JMPerez/spotify-web-api-js) - A client-side JS wrapper for the Spotify Web API
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [artyorsh/react-native-eva-icons](https://github.com/artyorsh/react-native-eva-icons) - ⭐Eva Icons for React Native
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
