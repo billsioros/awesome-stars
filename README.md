@@ -264,7 +264,7 @@
 ## Dart 
 
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play local music & YouTube music. Distributes music into albums & artists. Has playlists & lyrics. Windows + Linux + Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - [WORK IN PROGRESS] 🎵 Elegant music app to play local music & YouTube music. Distributes music into albums & artists. Has playlists & lyrics. Windows + Linux + Android.
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [Hexer10/youtube_explode_dart](https://github.com/Hexer10/youtube_explode_dart) - Port of YoutubeExplode to dart
 - [flutterchina/dio](https://github.com/flutterchina/dio) - A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
@@ -376,6 +376,7 @@
 
 ## JavaScript 
 
+- [ColinEberhardt/wasm-sudoku-solver](https://github.com/ColinEberhardt/wasm-sudoku-solver) - a WebAssembly-powered AR sudoku solver
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [oblador/react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) - Customizable Icons for React Native with support for image source and full styling.
 - [aholachek/bundle-wizard](https://github.com/aholachek/bundle-wizard) - Magically easy insight into the JavaScript loaded by a web app
@@ -1129,6 +1130,7 @@
 
 ## TeX 
 
+- [borisveytsman/acmart](https://github.com/borisveytsman/acmart) - ACM consolidated LaTeX styles
 - [josephwright/beamer](https://github.com/josephwright/beamer) - A LaTeX class for producing presentations and slides
 - [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet) - Latex code for making neural networks diagrams
 - [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV) - :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
