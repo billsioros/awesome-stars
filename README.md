@@ -91,7 +91,7 @@
 - [ntovas/AdventOfCode](https://github.com/ntovas/AdventOfCode) - 
 - [dotnet/roslyn](https://github.com/dotnet/roslyn) - The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.
 - [CBidis/Viber.Net](https://github.com/CBidis/Viber.Net) - A .NET implementation regarding the Viber REST API.
-- [OrleansContrib/OrleansDashboard](https://github.com/OrleansContrib/OrleansDashboard) - :bar_chart: An admin dashboard for Microsoft Orleans
+- [OrleansContrib/OrleansDashboard](https://github.com/OrleansContrib/OrleansDashboard) - :bar_chart: A monitoring dashboard for Microsoft Orleans
 - [akkadotnet/akka.net](https://github.com/akkadotnet/akka.net) - Port of Akka actors for .NET
 - [spectreconsole/spectre.console](https://github.com/spectreconsole/spectre.console) - A .NET library that makes it easier to create beautiful console applications.
 - [CarterCommunity/Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
@@ -269,7 +269,7 @@
 ## Dart 
 
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - [WORK IN PROGRESS] 🎵 Elegant music app to play local music & YouTube music. Distributes music into albums & artists. Has playlists & lyrics. Windows + Linux + Android.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - [WORK IN PROGRESS] 🎵 Elegant music app to play & manage music library (+ YouTube support). Has playlists & lyrics. Windows + Linux + Android.
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [Hexer10/youtube_explode_dart](https://github.com/Hexer10/youtube_explode_dart) - Port of YoutubeExplode to dart
 - [flutterchina/dio](https://github.com/flutterchina/dio) - A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
@@ -601,6 +601,7 @@
 
 ## Python 
 
+- [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode) - Python QR Code image generator
 - [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations) - Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation:  https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125
 - [seperman/deepdiff](https://github.com/seperman/deepdiff) - Deep Difference and search of any Python object/data.
 - [ofek/hatch](https://github.com/ofek/hatch) - Modern, extensible Python project management
