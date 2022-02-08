@@ -754,7 +754,7 @@
 - [PyCQA/flake8-bugbear](https://github.com/PyCQA/flake8-bugbear) - A plugin for Flake8 finding likely bugs and design problems in your program. Contains warnings that don't belong in pyflakes and pycodestyle.
 - [editorconfig-checker/editorconfig-checker.python](https://github.com/editorconfig-checker/editorconfig-checker.python) - A tool to verify that your files are in harmony with your .editorconfig
 - [jdb78/pytorch-forecasting](https://github.com/jdb78/pytorch-forecasting) - Time series forecasting with PyTorch
-- [encode/uvicorn](https://github.com/encode/uvicorn) - The lightning-fast ASGI server. 🦄
+- [encode/uvicorn](https://github.com/encode/uvicorn) - An ASGI web server, for Python. 🦄
 - [kiwicom/pytest-recording](https://github.com/kiwicom/pytest-recording) - A pytest plugin that allows recording network interactions via VCR.py
 - [codespell-project/codespell](https://github.com/codespell-project/codespell) - check code for common misspellings
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
