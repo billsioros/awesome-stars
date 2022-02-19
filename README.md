@@ -249,7 +249,6 @@
 - [app-generator/boilerplate-code-django-dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard) - Boilerplate Code - Django Dashboard | AppSeed
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [darklow/django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
-- [Learus/learus.github.io](https://github.com/Learus/learus.github.io) - 
 
 ## Clojure 
 
@@ -354,6 +353,7 @@
 - [baziotis/delos-video-viewer](https://github.com/baziotis/delos-video-viewer) - A handy HTML video viewer for Delos that lets you conveniently set the speed as you watch.
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
+- [Learus/learus.github.io](https://github.com/Learus/learus.github.io) - 
 
 ## Haml 
 
@@ -504,6 +504,7 @@
 
 ## Jupyter Notebook 
 
+- [trainindata/deploying-machine-learning-models](https://github.com/trainindata/deploying-machine-learning-models) - Example Repo for the Udemy Course "Deployment of Machine Learning Models"
 - [Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
 - [ageron/handson-ml](https://github.com/ageron/handson-ml) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.
@@ -602,6 +603,7 @@
 
 ## Python 
 
+- [dabeaz/curio](https://github.com/dabeaz/curio) - Good Curio!
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
 - [pyparsing/pyparsing](https://github.com/pyparsing/pyparsing) - Python library for creating PEG parsers
