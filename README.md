@@ -603,6 +603,7 @@
 
 ## Python 
 
+- [tensorflow/ranking](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [dabeaz/curio](https://github.com/dabeaz/curio) - Good Curio!
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
