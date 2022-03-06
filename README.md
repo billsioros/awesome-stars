@@ -957,7 +957,7 @@
 - [microsoft/recommenders](https://github.com/microsoft/recommenders) - Best Practices on Recommendation Systems
 - [tartley/colorama](https://github.com/tartley/colorama) - Simple cross-platform colored terminal text in Python
 - [carltongibson/django-filter](https://github.com/carltongibson/django-filter) - A generic system for filtering Django QuerySets based on user selections
-- [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python, https://rxpy.rtfd.io
+- [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - ReactiveX for Python, https://rxpy.rtfd.io
 - [santinic/pampy](https://github.com/santinic/pampy) - Pampy: The Pattern Matching for Python you always dreamed of.
 - [cbaziotis/ekphrasis](https://github.com/cbaziotis/ekphrasis) - Ekphrasis is a text processing tool, geared towards text from social networks, such as Twitter or Facebook. Ekphrasis performs tokenization, word normalization, word segmentation (for splitting hashtags) and spell correction,  using word statistics from 2 big corpora (english Wikipedia, twitter - 330mil english tweets).
 - [pypa/virtualenv](https://github.com/pypa/virtualenv) - Virtual Python Environment builder
