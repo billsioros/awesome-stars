@@ -606,6 +606,8 @@
 
 ## Python 
 
+- [facebookresearch/BLINK](https://github.com/facebookresearch/BLINK) - Entity Linker solution
+- [feast-dev/feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
 - [tensorflow/ranking](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow
 - [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [dabeaz/curio](https://github.com/dabeaz/curio) - Good Curio!
