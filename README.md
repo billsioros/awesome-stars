@@ -884,10 +884,10 @@
 - [python-trio/trio](https://github.com/python-trio/trio) - Trio – a friendly Python library for async concurrency and I/O
 - [eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN) - PyTorch implementations of Generative Adversarial Networks.
 - [ets-labs/python-dependency-injector](https://github.com/ets-labs/python-dependency-injector) - Dependency injection framework for Python
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [clarete/forbiddenfruit](https://github.com/clarete/forbiddenfruit) - Patch built-in python objects
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: MLOps framework to create reproducible pipelines.
 - [django-otp/django-otp](https://github.com/django-otp/django-otp) - A pluggable framework for adding two-factor authentication to Django using one-time passwords.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
 - [ChristinaAndrinopoyloy/BiotechnologyProject](https://github.com/ChristinaAndrinopoyloy/BiotechnologyProject) - 
@@ -1225,10 +1225,10 @@
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [Learus/cra-template-learus-typescript-material](https://github.com/Learus/cra-template-learus-typescript-material) - 
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
