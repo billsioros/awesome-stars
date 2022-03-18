@@ -131,7 +131,6 @@
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [wonday/react-native-pdf](https://github.com/wonday/react-native-pdf) - A &lt;Pdf /&gt; component for react-native
-- [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [NVIDIA/Torch-TensorRT](https://github.com/NVIDIA/Torch-TensorRT) - PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -631,6 +630,7 @@
 - [dorarad/gansformer](https://github.com/dorarad/gansformer) - Generative Adversarial Transformers
 - [EvgenyKashin/stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) - 
 - [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
+- [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [pschanely/CrossHair](https://github.com/pschanely/CrossHair) - An analysis tool for Python that blurs the line between testing and type systems.
 - [d2l-ai/d2l-en](https://github.com/d2l-ai/d2l-en) - Interactive deep learning book with multi-framework code, math, and discussions. Adopted at 300 universities from 55 countries including Stanford, MIT, Harvard, and Cambridge.
 - [abhiskk/fast-neural-style](https://github.com/abhiskk/fast-neural-style) - pytorch implementation of fast-neural-style
@@ -729,7 +729,7 @@
 - [asottile/astpretty](https://github.com/asottile/astpretty) - Pretty print the output of python stdlib `ast.parse`.
 - [lengstrom/fast-style-transfer](https://github.com/lengstrom/fast-style-transfer) - TensorFlow CNN for fast style transfer ⚡🖥🎨🖼
 - [encode/orm](https://github.com/encode/orm) - An async ORM. 🗃
-- [twisted/towncrier](https://github.com/twisted/towncrier) - Building the release notes for your project.
+- [twisted/towncrier](https://github.com/twisted/towncrier) - Manage the release notes for your project.
 - [twisted/twisted](https://github.com/twisted/twisted) - Event-driven networking engine written in Python.
 - [mahmoud/boltons](https://github.com/mahmoud/boltons) - 🔩 Like builtins, but boltons. 250+ constructs, recipes, and snippets which extend (and rely on nothing but) the Python standard library.  Nothing like Michael Bolton.
 - [flakehell/flakehell](https://github.com/flakehell/flakehell) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
