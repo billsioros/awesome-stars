@@ -605,6 +605,7 @@
 
 ## Python 
 
+- [gwpy/gwpy](https://github.com/gwpy/gwpy) - Package for analysing and characterising gravitational wave data in python
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [facebookresearch/DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
 - [facebookresearch/BLINK](https://github.com/facebookresearch/BLINK) - Entity Linker solution
@@ -798,7 +799,7 @@
 - [benjaminp/six](https://github.com/benjaminp/six) - Python 2 and 3 compatibility library
 - [guardicore/monkey](https://github.com/guardicore/monkey) - Infection Monkey - An automated pentest tool
 - [nose-devs/nose](https://github.com/nose-devs/nose) - nose is nicer testing for python
-- [theacodes/nox](https://github.com/theacodes/nox) - Flexible test automation for Python
+- [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [plotly/dash](https://github.com/plotly/dash) - Analytical Web Apps for Python, R, Julia, and Jupyter. No JavaScript Required.
 - [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
