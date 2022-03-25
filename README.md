@@ -105,7 +105,7 @@
 - [SebLague/Terraforming](https://github.com/SebLague/Terraforming) - 
 - [JohnnyCrazy/SpotifyAPI-NET](https://github.com/JohnnyCrazy/SpotifyAPI-NET) - :sound: A Client for the Spotify Web API, written in C#/.NET
 - [pythonnet/pythonnet](https://github.com/pythonnet/pythonnet) - Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
-- [dotnet/orleans](https://github.com/dotnet/orleans) - Orleans is a cross-platform framework for building distributed applications with .NET
+- [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
 - [xunit/xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
@@ -904,7 +904,7 @@
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
 - [jina-ai/jina](https://github.com/jina-ai/jina) - Cloud-native neural search framework for 𝙖𝙣𝙮 kind of data
-- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embedding image and sentence into fixed-length vectors via CLIP
+- [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embed images and sentences into fixed-length vectors with CLIP
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [sigma67/ytmusicapi](https://github.com/sigma67/ytmusicapi) - Unofficial API for YouTube Music
