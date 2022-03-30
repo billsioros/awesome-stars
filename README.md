@@ -606,6 +606,7 @@
 
 ## Python 
 
+- [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
 - [gwpy/gwpy](https://github.com/gwpy/gwpy) - Package for analysing and characterising gravitational wave data in python
 - [aiortc/aiortc](https://github.com/aiortc/aiortc) - WebRTC and ORTC implementation for Python using asyncio
 - [facebookresearch/DrQA](https://github.com/facebookresearch/DrQA) - Reading Wikipedia to Answer Open-Domain Questions
