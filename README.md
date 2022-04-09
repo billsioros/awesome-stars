@@ -836,7 +836,7 @@
 - [wting/autojump](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 - [dbcli/mssql-cli](https://github.com/dbcli/mssql-cli) - A command-line client for SQL Server with auto-completion and syntax highlighting
 - [codertimo/BERT-pytorch](https://github.com/codertimo/BERT-pytorch) - Google AI 2018 BERT pytorch implementation
-- [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Instagram's performance oriented fork of CPython.
+- [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
 - [realpython/discover-flask](https://github.com/realpython/discover-flask) - Full Stack Web Development with Flask.
 - [adrienverge/yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 - [hack4impact/flask-base](https://github.com/hack4impact/flask-base) - A simple Flask boilerplate app with SQLAlchemy, Redis, User Authentication, and more.
