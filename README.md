@@ -330,7 +330,7 @@
 - [skx/monkey](https://github.com/skx/monkey) - An interpreted languages written in Go
 - [mit-pdos/biscuit](https://github.com/mit-pdos/biscuit) - Biscuit research OS
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [kashav/fsql](https://github.com/kashav/fsql) - Find files with SQL.
+- [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a structured query language
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
