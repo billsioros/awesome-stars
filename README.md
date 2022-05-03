@@ -270,7 +270,7 @@
 ## Dart 
 
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
-- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play & manage music library. YouTube Music client.
+- [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - 🎵 Elegant music app to play & manage music library. YouTube Music client. Lyrics & Playlists.
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [Hexer10/youtube_explode_dart](https://github.com/Hexer10/youtube_explode_dart) - Port of YoutubeExplode to dart
 - [flutterchina/dio](https://github.com/flutterchina/dio) - A powerful Http client for Dart, which supports Interceptors, FormData, Request Cancellation, File Downloading, Timeout etc.
@@ -606,6 +606,7 @@
 
 ## Python 
 
+- [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [pytorch/fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [facebookresearch/torchdynamo](https://github.com/facebookresearch/torchdynamo) - A Python-level JIT compiler designed to make unmodified PyTorch programs faster.
