@@ -344,7 +344,7 @@
 
 ## HTML 
 
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - 
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
 - [douglasmiranda/django-admin-bootstrap](https://github.com/douglasmiranda/django-admin-bootstrap) - Responsive Theme for Django Admin With Sidebar Menu
 - [RafeKettler/magicmethods](https://github.com/RafeKettler/magicmethods) - Guide to Python's magic methods
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
@@ -607,6 +607,9 @@
 
 ## Python 
 
+- [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
+- [pyscript/pyscript-cli](https://github.com/pyscript/pyscript-cli) - A CLI for PyScript
+- [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
 - [flakeheaven/flakeheaven](https://github.com/flakeheaven/flakeheaven) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
 - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
@@ -614,7 +617,7 @@
 - [minimaxir/aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - A Human-in-the-Loop workflow for creating HD images from text
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
-- [pytorch/fairseq](https://github.com/pytorch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [pytorch/torchdynamo](https://github.com/pytorch/torchdynamo) - A Python-level JIT compiler designed to make unmodified PyTorch programs faster.
 - [jbmouret/matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers) - Handout for the tutorial "Creating publication-quality figures with matplotlib"
 - [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
@@ -1085,6 +1088,7 @@
 
 ## Rust 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like UI library for desktop, web, mobile, SSR, liveview, and more.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a diff that understands syntax 🟥🟩
 - [ahhhh6980/Mosaic](https://github.com/ahhhh6980/Mosaic) - Takes a folder of images (as a palette), and an image, and figures out how to tile the palette to resemble the image!
