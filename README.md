@@ -25,6 +25,7 @@
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
+- [Julia](#julia)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
@@ -503,6 +504,10 @@
 
 - [trailofbits/algo](https://github.com/trailofbits/algo) - Set up a personal VPN in the cloud
 
+## Julia 
+
+- [giordano/StarWarsArrays.jl](https://github.com/giordano/StarWarsArrays.jl) - Arrays indexed as the order of Star Wars movies
+
 ## Jupyter Notebook 
 
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) - 
@@ -607,6 +612,7 @@
 
 ## Python 
 
+- [manifoldai/orbyter-cookiecutter](https://github.com/manifoldai/orbyter-cookiecutter) - Dockerized ML Cookiecutter
 - [Python-Markdown/markdown](https://github.com/Python-Markdown/markdown) - A Python implementation of John Gruber’s Markdown with Extension support.
 - [pyscript/pyscript-cli](https://github.com/pyscript/pyscript-cli) - A CLI for PyScript
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
@@ -909,7 +915,6 @@
 - [clarete/forbiddenfruit](https://github.com/clarete/forbiddenfruit) - Patch built-in python objects
 - [zenml-io/zenml](https://github.com/zenml-io/zenml) - ZenML 🙏: MLOps framework to create reproducible pipelines. https://zenml.io.
 - [django-otp/django-otp](https://github.com/django-otp/django-otp) - A pluggable framework for adding two-factor authentication to Django using one-time passwords.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six) - Community maintained fork of pdfminer - we fathom PDF
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
 - [ChristinaAndrinopoyloy/BiotechnologyProject](https://github.com/ChristinaAndrinopoyloy/BiotechnologyProject) - 
@@ -948,7 +953,7 @@
 - [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [flask-api/flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework for Selenium that supports pytest and behave-BDD. 🎖️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A framework with the tools need to automate web testing with Python.
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
@@ -1255,6 +1260,7 @@
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [benawad/dogehouse](https://github.com/benawad/dogehouse) - Taking voice conversations to the moon 🚀
 - [tone-row/flowchart-fun](https://github.com/tone-row/flowchart-fun) - Easily generate flowcharts and diagrams from text ⿻
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [Learus/cra-template-learus-typescript-material](https://github.com/Learus/cra-template-learus-typescript-material) - 
 - [benawad/destiny](https://github.com/benawad/destiny) - Prettier for File Structures
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open platform for building developer portals
