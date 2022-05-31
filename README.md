@@ -622,6 +622,7 @@
 
 ## Python 
 
+- [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
@@ -821,7 +822,7 @@
 - [tornadoweb/tornado](https://github.com/tornadoweb/tornado) - Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed.
 - [jimporter/mike](https://github.com/jimporter/mike) - Manage multiple versions of your MkDocs-powered documentation via Git
 - [kevin1024/vcrpy](https://github.com/kevin1024/vcrpy) - Automatically mock your HTTP interactions to simplify and speed up testing
-- [facebookincubator/python-nubia](https://github.com/facebookincubator/python-nubia) - A command-line and interactive shell framework.
+- [facebookarchive/python-nubia](https://github.com/facebookarchive/python-nubia) - A command-line and interactive shell framework.
 - [xonsh/xonsh](https://github.com/xonsh/xonsh) - :shell: Python-powered, cross-platform, Unix-gazing shell
 - [Textualize/textual](https://github.com/Textualize/textual) - Textual is a TUI (Text User Interface) framework for Python inspired by modern web development.
 - [psf/requests-html](https://github.com/psf/requests-html) - Pythonic HTML Parsing for Humans™
