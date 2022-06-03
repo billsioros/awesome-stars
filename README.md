@@ -624,6 +624,7 @@
 
 ## Python 
 
+- [severb/graypy](https://github.com/severb/graypy) - Python logging handler for Graylog that sends messages in GELF (Graylog Extended Log Format).
 - [Netflix/metaflow](https://github.com/Netflix/metaflow) - :rocket: Build and manage real-life data science projects with ease!
 - [life4/textdistance](https://github.com/life4/textdistance) - Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [python-security/pyt](https://github.com/python-security/pyt) - A Static Analysis Tool for Detecting Security Vulnerabilities in Python Web Applications
@@ -674,7 +675,7 @@
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
 - [keras-team/keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for humans
 - [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON or Dictionaries. This allows piping of output to tools like jq and simplifying automation scri
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools and file-types to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automati
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
 - [dorarad/gansformer](https://github.com/dorarad/gansformer) - Generative Adversarial Transformers
 - [EvgenyKashin/stylegan2-distillation](https://github.com/EvgenyKashin/stylegan2-distillation) - 
