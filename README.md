@@ -401,6 +401,7 @@
 
 ## JavaScript 
 
+- [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [alyssaxuu/slashy](https://github.com/alyssaxuu/slashy) - Supercharge Notion with custom commands to record, draw, and more ✍️
 - [artilleryio/artillery](https://github.com/artilleryio/artillery) - Modern testing for DevOps & SRE
@@ -632,6 +633,9 @@
 
 ## Python 
 
+- [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
+- [samuelcolvin/pydantic](https://github.com/samuelcolvin/pydantic) - Data parsing and validation using Python type hints
+- [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [severb/graypy](https://github.com/severb/graypy) - Python logging handler for Graylog that sends messages in GELF (Graylog Extended Log Format).
@@ -669,7 +673,6 @@
 - [facebookresearch/BLINK](https://github.com/facebookresearch/BLINK) - Entity Linker solution
 - [feast-dev/feast](https://github.com/feast-dev/feast) - Feature Store for Machine Learning
 - [tensorflow/ranking](https://github.com/tensorflow/ranking) - Learning to Rank in TensorFlow
-- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [dabeaz/curio](https://github.com/dabeaz/curio) - Good Curio!
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [graphql-python/graphene](https://github.com/graphql-python/graphene) - GraphQL framework for Python
@@ -954,7 +957,7 @@
 - [jamalex/notion-py](https://github.com/jamalex/notion-py) - Unofficial Python API client for Notion.so
 - [ChristinaAndrinopoyloy/BiotechnologyProject](https://github.com/ChristinaAndrinopoyloy/BiotechnologyProject) - 
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
-- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready neural search, question answering, semantic document search and su
+- [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - :mag: Haystack is an open source NLP framework that leverages Transformer models. It enables developers to implement production-ready semantic search, question answering, summarization and document ra
 - [google-research/bert](https://github.com/google-research/bert) - TensorFlow code and pre-trained models for BERT
 - [allenai/allennlp](https://github.com/allenai/allennlp) - An open-source NLP research library, built on PyTorch.
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -988,7 +991,7 @@
 - [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [flask-api/flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - ✅ 📊 A complete framework for fast, easy, & reliable Web/UI testing. (Selenium/Python) 🚀
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Python framework for testing the entire end-to-end experience of your web app.
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
@@ -1128,6 +1131,7 @@
 
 ## Rust 
 
+- [jonasbb/pre-commit-latex-hooks](https://github.com/jonasbb/pre-commit-latex-hooks) - pre-commit hooks to improve LaTeX writing.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like crossplatform app development for desktop, web, mobile, and more.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
@@ -1184,6 +1188,7 @@
 
 ## Shell 
 
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [ewanmellor/git-diff-image](https://github.com/ewanmellor/git-diff-image) - An extension to 'git diff' that provides support for diffing images.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
 - [marcan/takeover.sh](https://github.com/marcan/takeover.sh) - Wipe and reinstall a running Linux system via SSH, without rebooting. You know you want to.
@@ -1231,6 +1236,7 @@
 ## TypeScript 
 
 - [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+- [orchest/orchest](https://github.com/orchest/orchest) - Build data pipelines, the easy way 🛠️
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [AlexTorresSk/custom-electron-titlebar](https://github.com/AlexTorresSk/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
