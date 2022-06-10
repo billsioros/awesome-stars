@@ -17,6 +17,7 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [F#](#f#)
 - [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -292,6 +293,10 @@
 ## Elixir 
 
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+
+## F# # 
+
+- [PragmaticFlow/NBomber](https://github.com/PragmaticFlow/NBomber) - Modern and flexible load testing framework for Pull and Push scenarios, designed to test any system regardless a protocol (HTTP/WebSockets/AMQP etc) or a semantic model (Pull/Push).
 
 ## GLSL 
 
@@ -578,6 +583,7 @@
 
 ## Others 
 
+- [kennethleungty/Neural-Network-Architecture-Diagrams](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams) - Diagrams for visualizing neural network architecture (Created with diagrams.net)
 - [github-community/community](https://github.com/github-community/community) - Public feedback discussions for: GitHub for Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [radix-ai/awesome-machine-learning-engineer](https://github.com/radix-ai/awesome-machine-learning-engineer) - 🤓 A curated awesome list of Machine Learning Engineering resources. Feel free to contribute!
 - [chris-chris/ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap) - WIP: Roadmap to becoming a machine learning engineer in 2020
@@ -634,6 +640,8 @@
 
 ## Python 
 
+- [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Data-centric declarative deep learning framework
 - [Parquery/icontract](https://github.com/Parquery/icontract) - Design-by-contract in Python3 with informative violation messages and inheritance
 - [karec/cookiecutter-flask-restful](https://github.com/karec/cookiecutter-flask-restful) - Flask cookiecutter template for builing APIs with flask-restful, including JWT auth, cli, tests, swagger, docker and more
 - [flask-restful/flask-restful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
