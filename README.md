@@ -1008,7 +1008,7 @@
 - [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [flask-api/flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 🔑 The key to reliable Web/UI Automation & Testing with Python, pytest, and Selenium. ✅
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
@@ -1205,6 +1205,7 @@
 
 ## Shell 
 
+- [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [ewanmellor/git-diff-image](https://github.com/ewanmellor/git-diff-image) - An extension to 'git diff' that provides support for diffing images.
 - [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines.
