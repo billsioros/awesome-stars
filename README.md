@@ -645,6 +645,7 @@
 
 ## Python 
 
+- [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
 - [wandb/client](https://github.com/wandb/client) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 - [rrmina/fast-neural-style-pytorch](https://github.com/rrmina/fast-neural-style-pytorch) - Fast Neural Style Transfer implementation in PyTorch :art: :art: :art:
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
@@ -925,7 +926,7 @@
 - [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
 - [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog) - Automatic Changelog generator using Jinja2 templates.
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models for state-of-the-art AI research, and deploy them with Lightning Apps (end-to-end ML systems).
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - Build high-performance AI models with PyTorch Lightning (organized PyTorch). Deploy models with Lightning Apps (organized Python to build end-to-end ML systems).
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [relekang/python-semantic-release](https://github.com/relekang/python-semantic-release) - Automatic semantic versioning for python projects
 - [mtkennerly/poetry-dynamic-versioning](https://github.com/mtkennerly/poetry-dynamic-versioning) - Plugin for Poetry to enable dynamic versioning based on VCS tags
@@ -1211,6 +1212,7 @@
 
 ## Shell 
 
+- [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [ewanmellor/git-diff-image](https://github.com/ewanmellor/git-diff-image) - An extension to 'git diff' that provides support for diffing images.
