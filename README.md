@@ -136,6 +136,7 @@
 
 ## C++ 
 
+- [dblalock/bolt](https://github.com/dblalock/bolt) - 10x faster matrix and vector operations
 - [memgraph/memgraph](https://github.com/memgraph/memgraph) - Build modern, graph-based applications on top of your streaming data in minutes
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro) - TensorFlow Lite for Microcontrollers
