@@ -534,6 +534,8 @@
 
 ## Jupyter Notebook 
 
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
+- [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [slundberg/shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [BINPIPE/docker-for-ml](https://github.com/BINPIPE/docker-for-ml) - Using Docker for Machine Learning Workflows
@@ -553,7 +555,7 @@
 - [limingcv/Photorealistic-Style-Transfer](https://github.com/limingcv/Photorealistic-Style-Transfer) - High-Resolution Network for Photorealistic Style Transfer
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [adashofdata/nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) - comparing stand up comedians using natural language processing
-- [GokuMohandas/MadeWithML](https://github.com/GokuMohandas/MadeWithML) - Learn how to responsibly deliver value with ML.
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly deliver value with ML.
 
 ## Kotlin 
 
@@ -837,7 +839,7 @@
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly.
 - [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython) - A better Python REPL
-- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package manager with PEP 582 support.
+- [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [gvalkov/python-ansimarkup](https://github.com/gvalkov/python-ansimarkup) - Produce colored terminal text with an xml-like markup
 - [Qix-/better-exceptions](https://github.com/Qix-/better-exceptions) - Pretty and useful exceptions in Python, automatically.
 - [python-poetry/cleo](https://github.com/python-poetry/cleo) - Cleo allows you to create beautiful and testable command-line interfaces.
