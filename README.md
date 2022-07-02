@@ -366,7 +366,6 @@
 ## HTML 
 
 - [cjroth/chronist](https://github.com/cjroth/chronist) - Long-term analysis of emotion, age, and sentiment using Lifeslice and text records.
-- [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open standard for data logging
 - [douglasmiranda/django-admin-bootstrap](https://github.com/douglasmiranda/django-admin-bootstrap) - Responsive Theme for Django Admin With Sidebar Menu
 - [RafeKettler/magicmethods](https://github.com/RafeKettler/magicmethods) - Guide to Python's magic methods
 - [twitter/twemoji](https://github.com/twitter/twemoji) - Emoji for everyone. https://twemoji.twitter.com/
@@ -412,7 +411,7 @@
 - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [alyssaxuu/slashy](https://github.com/alyssaxuu/slashy) - Supercharge Notion with custom commands to record, draw, and more ✍️
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing. Keep your app fast & reliable. Loved by developers & SREs.
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
 - [googlecreativelab/teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [ColinEberhardt/wasm-sudoku-solver](https://github.com/ColinEberhardt/wasm-sudoku-solver) - a WebAssembly-powered AR sudoku solver
@@ -481,7 +480,7 @@
 - [justdjango/django-react-boilerplate](https://github.com/justdjango/django-react-boilerplate) - A Django and React user authentication project boilerplate.
 - [jhen0409/react-native-debugger](https://github.com/jhen0409/react-native-debugger) - The standalone app based on official debugger of React Native, and includes React Inspector / Redux DevTools
 - [xotahal/react-native-material-ui](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
-- [necolas/react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
+- [necolas/react-native-web](https://github.com/necolas/react-native-web) - Development monorepo for "React Native for Web"
 - [prescottprue/react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes React Hooks and Higher Order Components.
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
@@ -537,6 +536,7 @@
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [karpathy/minGPT](https://github.com/karpathy/minGPT) - A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
+- [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open standard for data logging
 - [slundberg/shap](https://github.com/slundberg/shap) - A game theoretic approach to explain the output of any machine learning model.
 - [BINPIPE/docker-for-ml](https://github.com/BINPIPE/docker-for-ml) - Using Docker for Machine Learning Workflows
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
@@ -648,6 +648,7 @@
 
 ## Python 
 
+- [jina-ai/discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line
 - [facebookresearch/GENRE](https://github.com/facebookresearch/GENRE) - Autoregressive Entity Retrieval
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
 - [chakki-works/seqeval](https://github.com/chakki-works/seqeval) - A Python framework for sequence labeling evaluation(named-entity recognition, pos tagging, etc...)
@@ -1374,7 +1375,7 @@
 
 ## V 
 
-- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. https://vlang.io
+- [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
 ## VBScript 
 
