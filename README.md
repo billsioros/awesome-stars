@@ -648,6 +648,7 @@
 
 ## Python 
 
+- [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line
 - [facebookresearch/GENRE](https://github.com/facebookresearch/GENRE) - Autoregressive Entity Retrieval
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
