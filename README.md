@@ -536,6 +536,7 @@
 
 ## Jupyter Notebook 
 
+- [openai/CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open standard for data logging
