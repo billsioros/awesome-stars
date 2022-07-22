@@ -137,6 +137,7 @@
 
 ## C++ 
 
+- [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
 - [dblalock/bolt](https://github.com/dblalock/bolt) - 10x faster matrix and vector operations
@@ -415,7 +416,7 @@
 - [jgraph/drawio](https://github.com/jgraph/drawio) - Source to app.diagrams.net
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [alyssaxuu/slashy](https://github.com/alyssaxuu/slashy) - Supercharge Notion with custom commands to record, draw, and more ✍️
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance testing
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale performance & reliability testing for developers & SREs
 - [googlecreativelab/teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [ColinEberhardt/wasm-sudoku-solver](https://github.com/ColinEberhardt/wasm-sudoku-solver) - a WebAssembly-powered AR sudoku solver
@@ -537,6 +538,7 @@
 
 ## Jupyter Notebook 
 
+- [google/evojax](https://github.com/google/evojax) - 
 - [openai/CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
@@ -666,7 +668,7 @@
 - [yandex/YaLM-100B](https://github.com/yandex/YaLM-100B) - Pretrained language model with 100B parameters
 - [chakki-works/seqeval](https://github.com/chakki-works/seqeval) - A Python framework for sequence labeling evaluation(named-entity recognition, pos tagging, etc...)
 - [iterative/dvc](https://github.com/iterative/dvc) - 🦉Data Version Control | Git for Data & Models | ML Experiments Management
-- [wandb/client](https://github.com/wandb/client) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
+- [wandb/wandb](https://github.com/wandb/wandb) - 🔥 A tool for visualizing and tracking your machine learning experiments. This repo contains the CLI and Python API.
 - [rrmina/fast-neural-style-pytorch](https://github.com/rrmina/fast-neural-style-pytorch) - Fast Neural Style Transfer implementation in PyTorch :art: :art: :art:
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [danieldeutsch/repro](https://github.com/danieldeutsch/repro) - Repro is a library for easily running code from published papers via Docker.
