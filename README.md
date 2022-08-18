@@ -1013,7 +1013,7 @@
 - [kootenpv/neural_complete](https://github.com/kootenpv/neural_complete) - A neural network trained to help writing neural network code using autocomplete
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [huggingface/knockknock](https://github.com/huggingface/knockknock) - 🚪✊Knock Knock: Get notified when your training ends with only two additional lines of code
-- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI
+- [jina-ai/jina](https://github.com/jina-ai/jina) - Build cross-modal and multimodal applications on the cloud · Neural Search · Creative AI · Cloud Native
 - [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service) - Embed images and sentences into fixed-length vectors with CLIP
 - [UKPLab/sentence-transformers](https://github.com/UKPLab/sentence-transformers) - Multilingual Sentence & Image Embeddings with BERT
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
@@ -1294,7 +1294,7 @@
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
 - [AlexTorresSk/custom-electron-titlebar](https://github.com/AlexTorresSk/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
-- [expo/vscode-expo](https://github.com/expo/vscode-expo) - Expo tools for VS Code
+- [expo/vscode-expo](https://github.com/expo/vscode-expo) - Expo for vscode keeps you productive with intellisense and prebuild previews
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
 - [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 - [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
