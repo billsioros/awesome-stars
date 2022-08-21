@@ -952,7 +952,7 @@
 - [pytest-dev/pytest-cov](https://github.com/pytest-dev/pytest-cov) - Coverage plugin for pytest.
 - [python-pillow/Pillow](https://github.com/python-pillow/Pillow) - The friendly PIL fork (Python Imaging Library)
 - [pawamoy/git-changelog](https://github.com/pawamoy/git-changelog) - Automatic Changelog generator using Jinja2 templates.
-- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way for researchers, ML engineers and data scientists to build models (with PyTorch), research workflows and production pipelines with an obsessive focus on flexibility a
+- [Lightning-AI/lightning](https://github.com/Lightning-AI/lightning) - The most intuitive, flexible, way to build PyTorch models and lightning apps that glue together everything around the models, without the pain of infrastructure, cost management, scaling and everythin
 - [arogozhnikov/einops](https://github.com/arogozhnikov/einops) - Deep learning operations reinvented (for pytorch, tensorflow, jax and others)
 - [relekang/python-semantic-release](https://github.com/relekang/python-semantic-release) - Automatic semantic versioning for python projects
 - [mtkennerly/poetry-dynamic-versioning](https://github.com/mtkennerly/poetry-dynamic-versioning) - Plugin for Poetry to enable dynamic versioning based on VCS tags
