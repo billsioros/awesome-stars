@@ -1127,7 +1127,7 @@
 - [PanPapag/DANN](https://github.com/PanPapag/DANN) - Unsupervised Domain Adaptation by Backpropagation
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
-- [naiquevin/pipdeptree](https://github.com/naiquevin/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
+- [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [PanPapag/Zero-Learning-Fast-Medical-Image-Fusion](https://github.com/PanPapag/Zero-Learning-Fast-Medical-Image-Fusion) - A real-time image fusion method using pre-trained neural networks
 - [jazzband/djangorestframework-simplejwt](https://github.com/jazzband/djangorestframework-simplejwt) - A JSON Web Token authentication plugin for the Django REST Framework.
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
