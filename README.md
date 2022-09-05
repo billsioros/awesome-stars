@@ -543,6 +543,7 @@
 
 ## Jupyter Notebook 
 
+- [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
 - [google/evojax](https://github.com/google/evojax) - 
 - [openai/CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
