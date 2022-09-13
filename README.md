@@ -118,7 +118,7 @@
 - [dotnet/orleans](https://github.com/dotnet/orleans) - Cloud Native application framework for .NET
 - [xunit/xunit](https://github.com/xunit/xunit) - xUnit.net is a free, open source, community-focused unit testing tool for the .NET Framework.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
-- [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
+- [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 - [Azure/DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - The ultimate dirty YouTube library
 - [rgonek/Ilaro.Admin](https://github.com/rgonek/Ilaro.Admin) - Generic admin panel for ASP.NET MVC.
@@ -657,6 +657,7 @@
 
 ## Python 
 
+- [python/pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 - [martinRenou/ipycanvas](https://github.com/martinRenou/ipycanvas) - Interactive Canvas in Jupyter
 - [namaggarwal/splitwise](https://github.com/namaggarwal/splitwise) - Python SDK for Splitwise
 - [joke2k/faker](https://github.com/joke2k/faker) - Faker is a Python package that generates fake data for you.
