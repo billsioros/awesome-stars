@@ -89,6 +89,7 @@
 
 ## C# # 
 
+- [autofac/Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 - [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
 - [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [keijiro/Lasp](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity
@@ -1055,7 +1056,7 @@
 - [mnielsen/neural-networks-and-deep-learning](https://github.com/mnielsen/neural-networks-and-deep-learning) - Code samples for my book "Neural Networks and Deep Learning"
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [flask-api/flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Get more web automation coverage with SeleniumBase, a Python framework that lets you build reliable tests quickly. 🎖️
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A framework for modern web testing with Selenium, Python, and pytest. ✔️
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
@@ -1130,7 +1131,7 @@
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
 - [jazzband/django-silk](https://github.com/jazzband/django-silk) - Silky smooth profiling for Django
 - [oldani/HtmlTestRunner](https://github.com/oldani/HtmlTestRunner) - A Test Runner in python, for Human Readable HTML Reports
-- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python dependency management and packaging made easy.
+- [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [viralpoetry/translate-hsm-key](https://github.com/viralpoetry/translate-hsm-key) - Import, export multiple key cryptograms with Thales payShield 9000 using TCP or serial interface.
 - [dsoumis/InstaBOTGram](https://github.com/dsoumis/InstaBOTGram) - An instagram bot which implements various of activities.
 - [pypa/pipenv](https://github.com/pypa/pipenv) - Python Development Workflow for Humans.
