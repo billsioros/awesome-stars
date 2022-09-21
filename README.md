@@ -126,7 +126,7 @@
 - [Azure/DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
 - [Tyrrrz/YoutubeExplode](https://github.com/Tyrrrz/YoutubeExplode) - The ultimate dirty YouTube library
 - [rgonek/Ilaro.Admin](https://github.com/rgonek/Ilaro.Admin) - Generic admin panel for ASP.NET MVC.
-- [filipw/dotnet-script](https://github.com/filipw/dotnet-script) - Run C# scripts from the .NET CLI.
+- [dotnet-script/dotnet-script](https://github.com/dotnet-script/dotnet-script) - Run C# scripts from the .NET CLI.
 - [dotnet/aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [skoruba/IdentityServer4.Admin](https://github.com/skoruba/IdentityServer4.Admin) - The administration for the IdentityServer4 and Asp.Net Core Identity
 - [JamesNK/Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json) - Json.NET is a popular high-performance JSON framework for .NET
@@ -754,7 +754,7 @@
 - [dmlc/dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 - [pytorch/benchmark](https://github.com/pytorch/benchmark) - TorchBench is a collection of open source benchmarks used to evaluate PyTorch performance.
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
-- [keras-team/keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for humans
+- [keras-team/keras-tuner](https://github.com/keras-team/keras-tuner) - Hyperparameter tuning for Keras and more
 - [minitorch/minitorch](https://github.com/minitorch/minitorch) - The full minitorch student suite.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [lux-org/lux](https://github.com/lux-org/lux) - Automatically visualize your pandas dataframe via a single print! 📊 💡
