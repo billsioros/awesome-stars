@@ -150,7 +150,7 @@
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro) - TensorFlow Lite for Microcontrollers
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [wonday/react-native-pdf](https://github.com/wonday/react-native-pdf) - A &lt;Pdf /&gt; component for react-native
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -568,7 +568,7 @@
 - [Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning) - Deep Learning (with PyTorch)
 - [nubank/fklearn](https://github.com/nubank/fklearn) - fklearn: Functional Machine Learning
 - [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook) - Python Data Science Handbook: full text in Jupyter Notebooks
-- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED See ageron/handson-ml3 instead. This project contains a series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Le
+- [ageron/handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
 - [ageron/handson-ml2](https://github.com/ageron/handson-ml2) - A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.
 - [bentrevett/pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis) - Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
