@@ -672,7 +672,7 @@
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
 - [nicohlr/ipychart](https://github.com/nicohlr/ipychart) - The power of Chart.js with Python
 - [chakki-works/sumeval](https://github.com/chakki-works/sumeval) - Well tested & Multi-language evaluation framework for text summarization.
-- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generative Model
+- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model
 - [takluyver/pynsist](https://github.com/takluyver/pynsist) - Build Windows installers for Python applications
 - [mosaicml/composer](https://github.com/mosaicml/composer) - Train neural networks up to 7x faster
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
