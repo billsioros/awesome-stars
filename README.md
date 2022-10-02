@@ -726,7 +726,7 @@
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Training Data (Data Labeling, Annotation, Workflow) for all Data Types (Image, Video, 3D, Text, Geo, Audio, more) at scale.
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Training Data (Data Labeling, Annotation, Catalog, Workflow) for all Data Types (Image, Video, 3D, Text, Geo, Audio, more) at scale.
 - [martiansideofthemoon/rankgen](https://github.com/martiansideofthemoon/rankgen) - Official code and model checkpoints for our preprint "RankGen - Improving Text Generation with Large Ranking Models" (https://arxiv.org/abs/2205.09726).
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [manifoldai/orbyter-cookiecutter](https://github.com/manifoldai/orbyter-cookiecutter) - Dockerized ML Cookiecutter
