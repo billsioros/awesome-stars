@@ -551,7 +551,7 @@
 
 - [lazavgeridis/mddgan](https://github.com/lazavgeridis/mddgan) - Implementation of my B.sc. Thesis titled "MddGAN : Multilinear Analysis of the GAN Latent Space".
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
+- [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 - [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
 - [google/evojax](https://github.com/google/evojax) - 
 - [openai/CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
@@ -676,10 +676,10 @@
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
+- [huggingface/diffusers](https://github.com/huggingface/diffusers) - 🤗 Diffusers: State-of-the-art diffusion models for image and audio generation in PyTorch
 - [miguelgrinberg/Flask-Migrate](https://github.com/miguelgrinberg/Flask-Migrate) - SQLAlchemy database migrations for Flask applications using Alembic
 - [miguelgrinberg/Flask-SocketIO](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications.
 - [wellecks/naturalproofs](https://github.com/wellecks/naturalproofs) - NaturalProofs: Mathematical Theorem Proving in Natural Language (NeurIPS 2021 Datasets & Benchmarks)
-- [nateraw/stable-diffusion-videos](https://github.com/nateraw/stable-diffusion-videos) - Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts
 - [python/pyperformance](https://github.com/python/pyperformance) - Python Performance Benchmark Suite
 - [martinRenou/ipycanvas](https://github.com/martinRenou/ipycanvas) - Interactive Canvas in Jupyter
 - [namaggarwal/splitwise](https://github.com/namaggarwal/splitwise) - Python SDK for Splitwise
