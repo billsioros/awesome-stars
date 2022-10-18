@@ -366,7 +366,7 @@
 - [skx/monkey](https://github.com/skx/monkey) - An interpreted languages written in Go
 - [mit-pdos/biscuit](https://github.com/mit-pdos/biscuit) - Biscuit research OS
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a structured query language
+- [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
 - [coreybutler/nvm-windows](https://github.com/coreybutler/nvm-windows) - A node.js version management utility for Windows. Ironically written in Go.
 - [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
 - [liamg/darktile](https://github.com/liamg/darktile) - :waning_crescent_moon: Darktile is a GPU rendered terminal emulator designed for tiling window managers.
@@ -883,7 +883,7 @@
 - [catalyst-team/catalyst](https://github.com/catalyst-team/catalyst) - Accelerated deep learning R&D
 - [googlecolab/colabtools](https://github.com/googlecolab/colabtools) - Python libraries for Google Colaboratory
 - [getsentry/responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
-- [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
+- [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [lavr/python-emails](https://github.com/lavr/python-emails) - Modern python library for emails
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
