@@ -320,7 +320,7 @@
 
 - [tensorchord/envd](https://github.com/tensorchord/envd) - 🏕️ Development environment for AI/ML
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
-- [livekit/livekit](https://github.com/livekit/livekit) - Scalable, high-performance WebRTC SFU. SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
+- [livekit/livekit](https://github.com/livekit/livekit) - End to end stack for WebRTC. SFU media server, SDKs in JavaScript, React, React Native, Flutter, Swift, Kotlin, Unity/C#, Go, Ruby and Node.
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
@@ -354,7 +354,7 @@
 - [prasmussen/gdrive](https://github.com/prasmussen/gdrive) - Google Drive CLI Client
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
-- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
@@ -610,6 +610,7 @@
 
 ## Others 
 
+- [mjhea0/awesome-fastapi](https://github.com/mjhea0/awesome-fastapi) - A curated list of awesome things related to FastAPI
 - [kennethleungty/Neural-Network-Architecture-Diagrams](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams) - Diagrams for visualizing neural network architecture (Created with diagrams.net)
 - [community/community](https://github.com/community/community) - Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and more!
 - [radix-ai/awesome-machine-learning-engineer](https://github.com/radix-ai/awesome-machine-learning-engineer) - 🤓 A curated awesome list of Machine Learning Engineering resources. Feel free to contribute!
@@ -668,6 +669,7 @@
 
 ## Python 
 
+- [florimondmanca/awesome-asgi](https://github.com/florimondmanca/awesome-asgi) - A curated list of awesome ASGI servers, frameworks, apps, libraries, and other resources
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [microsoft/muzic](https://github.com/microsoft/muzic) - Muzic: Music Understanding and Generation with Artificial Intelligence
 - [mpdavis/python-jose](https://github.com/mpdavis/python-jose) - A JOSE implementation in Python
