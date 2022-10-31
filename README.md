@@ -1078,7 +1078,7 @@
 - [huggingface/datasets](https://github.com/huggingface/datasets) - 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools
 - [sloev/scope_injected_contextmanager](https://github.com/sloev/scope_injected_contextmanager) - A decorator/context manager that injects scope vars into a function
 - [beetbox/beets](https://github.com/beetbox/beets) - music library manager and MusicBrainz tagger
-- [plamere/spotipy](https://github.com/plamere/spotipy) - A light weight Python library for the Spotify Web API
+- [spotipy-dev/spotipy](https://github.com/spotipy-dev/spotipy) - A light weight Python library for the Spotify Web API
 - [pygments/pygments](https://github.com/pygments/pygments) - Pygments is a generic syntax highlighter written in Python
 - [pytorch/ignite](https://github.com/pytorch/ignite) - High-level library to help with training and evaluating neural networks in PyTorch flexibly and transparently.
 - [keras-team/keras](https://github.com/keras-team/keras) - Deep Learning for humans
