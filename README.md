@@ -754,7 +754,7 @@
 - [pyscript/pyscript-cli](https://github.com/pyscript/pyscript-cli) - A CLI for PyScript
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) - Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.
-- [flakeheaven/flakeheaven](https://github.com/flakeheaven/flakeheaven) - Flake8 wrapper to make it nice, legacy-friendly, configurable.
+- [flakeheaven/flakeheaven](https://github.com/flakeheaven/flakeheaven) - flakeheaven is a python linter built around flake8 to enable inheritable and complex toml configuration.
 - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 - [minimaxir/automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it.
 - [minimaxir/aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
