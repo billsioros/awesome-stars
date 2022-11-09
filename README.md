@@ -672,6 +672,7 @@
 
 ## Python 
 
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework 🍱
 - [marshmallow-code/flask-smorest](https://github.com/marshmallow-code/flask-smorest) - DB agnostic framework to build auto-documented REST APIs with Flask and marshmallow
 - [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
 - [pika/pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
