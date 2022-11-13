@@ -577,7 +577,6 @@
 - [bentrevett/pytorch-sentiment-analysis](https://github.com/bentrevett/pytorch-sentiment-analysis) - Tutorials on getting started with PyTorch and TorchText for sentiment analysis.
 - [skorch-dev/skorch](https://github.com/skorch-dev/skorch) - A scikit-learn compatible neural network library that wraps PyTorch
 - [limingcv/Photorealistic-Style-Transfer](https://github.com/limingcv/Photorealistic-Style-Transfer) - High-Resolution Network for Photorealistic Style Transfer
-- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [adashofdata/nlp-in-python-tutorial](https://github.com/adashofdata/nlp-in-python-tutorial) - comparing stand up comedians using natural language processing
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to responsibly develop, deploy and maintain production machine learning applications.
 
@@ -1176,6 +1175,7 @@
 - [micheles/decorator](https://github.com/micheles/decorator) - decorator
 - [PanPapag/DAMNets](https://github.com/PanPapag/DAMNets) - Domain-Adaptive Multibranch Networks
 - [PanPapag/DANN](https://github.com/PanPapag/DANN) - Unsupervised Domain Adaptation by Backpropagation
+- [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
