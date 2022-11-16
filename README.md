@@ -146,7 +146,7 @@
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
 - [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
 - [dblalock/bolt](https://github.com/dblalock/bolt) - 10x faster matrix and vector operations
-- [memgraph/memgraph](https://github.com/memgraph/memgraph) - Build modern, graph-based applications on top of your streaming data in minutes
+- [memgraph/memgraph](https://github.com/memgraph/memgraph) - Open-source graph database, built for real-time streaming data, compatible with Neo4j.
 - [skyline-emu/skyline](https://github.com/skyline-emu/skyline) - Run Nintendo Switch homebrew & games on your Android device!
 - [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro) - Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
@@ -431,7 +431,7 @@
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [alyssaxuu/slashy](https://github.com/alyssaxuu/slashy) - Supercharge Notion with custom commands to record, draw, and more ✍️
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale performance & reliability testing
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale load testing
 - [googlecreativelab/teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser.
 - [ColinEberhardt/wasm-sudoku-solver](https://github.com/ColinEberhardt/wasm-sudoku-solver) - a WebAssembly-powered AR sudoku solver
@@ -672,6 +672,9 @@
 
 ## Python 
 
+- [mosquito/aio-pika](https://github.com/mosquito/aio-pika) - AMQP 0.9 client designed for asyncio and humans.
+- [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
+- [miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python Socket.IO server and client
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [darrenburns/rich-pixels](https://github.com/darrenburns/rich-pixels) - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Colossal-AI: A Unified Deep Learning System for Big Model Era
