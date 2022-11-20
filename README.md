@@ -141,6 +141,7 @@
 
 ## C++ 
 
+- [orlp/pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort.
 - [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive & portable high-performance programming in Python.
