@@ -453,7 +453,7 @@
 - [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable redis desktop manager [GUI client], compatible with Linux, Windows, Mac. What's more, it won't crash when loading massive keys.
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 200+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning, and machine learning models
 - [stackshareio/awesome-stacks](https://github.com/stackshareio/awesome-stacks) - A curated list of tech stacks for building different applications & features
@@ -567,6 +567,7 @@
 - [ml-tooling/ml-workspace](https://github.com/ml-tooling/ml-workspace) - 🛠 All-in-one web-based IDE specialized for machine learning and data science.
 - [aimacode/aima-python](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 - [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion) - 
+- [jbmouret/matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers) - Handout for the tutorial "Creating publication-quality figures with matplotlib"
 - [huseinzol05/Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
 - [trainindata/deploying-machine-learning-models](https://github.com/trainindata/deploying-machine-learning-models) - Code for the online course "Deployment of Machine Learning Models"
 - [pytorch/TensorRT](https://github.com/pytorch/TensorRT) - PyTorch/TorchScript/FX compiler for NVIDIA GPUs using TensorRT
@@ -673,6 +674,7 @@
 
 ## Python 
 
+- [rednafi/fastapi-nano](https://github.com/rednafi/fastapi-nano) - 🐍 Simple FastAPI template employing divisional architecture pattern
 - [melvinkcx/fastapi-events](https://github.com/melvinkcx/fastapi-events) - Asynchronous event dispatching/handling library for FastAPI and Starlette
 - [mosquito/aio-pika](https://github.com/mosquito/aio-pika) - AMQP 0.9 client designed for asyncio and humans.
 - [websocket-client/websocket-client](https://github.com/websocket-client/websocket-client) - WebSocket client for Python
@@ -771,7 +773,6 @@
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified Machine Learning Framework
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [pytorch/torchdynamo](https://github.com/pytorch/torchdynamo) - A Python-level JIT compiler designed to make unmodified PyTorch programs faster.
-- [jbmouret/matplotlib_for_papers](https://github.com/jbmouret/matplotlib_for_papers) - Handout for the tutorial "Creating publication-quality figures with matplotlib"
 - [httpie/httpie](https://github.com/httpie/httpie) - 🥧 HTTPie for Terminal — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [cleanlab/cleanlab](https://github.com/cleanlab/cleanlab) - The standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.
 - [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal
