@@ -269,7 +269,6 @@
 - [primefaces/sakai-react](https://github.com/primefaces/sakai-react) - Free React Admin Template
 - [app-generator/django-datta-able](https://github.com/app-generator/django-datta-able) - Datta Able - Open-Source Django Dashboard | AppSeed
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
-- [darklow/django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
 
 ## Clojure 
 
@@ -380,7 +379,7 @@
 
 ## HTML 
 
-- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎 - FREE for commercial use
+- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - The most popular independent Tailwind library. 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [TanStack/react-charts](https://github.com/TanStack/react-charts) - ⚛️ Simple, immersive & interactive charts for React
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [cjroth/chronist](https://github.com/cjroth/chronist) - Long-term analysis of emotion, age, and sentiment using Lifeslice and text records.
@@ -1294,6 +1293,7 @@
 - [app-generator/boilerplate-code-django-dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard) - Boilerplate Code - Django Dashboard | AppSeed
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [machine-learning-apps/Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot) - Code For The Issue Label Bot, an App that automatically labels issues using machine learning, available on the GitHub Marketplace.   This is also code for the blog article: "How to automate tasks on G
+- [darklow/django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
 
 ## Sass 
 
