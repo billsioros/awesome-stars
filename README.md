@@ -672,6 +672,7 @@
 
 ## Python 
 
+- [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
 - [marqo-ai/marqo](https://github.com/marqo-ai/marqo) - Tensor search for humans.
 - [tslearn-team/tslearn](https://github.com/tslearn-team/tslearn) - A machine learning toolkit dedicated to time-series data
 - [numba/llvmlite](https://github.com/numba/llvmlite) - A lightweight LLVM python binding for writing JIT compilers
