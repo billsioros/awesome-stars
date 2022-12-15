@@ -78,7 +78,7 @@
 - [baziotis/dicc](https://github.com/baziotis/dicc) - A compiler for a subset of C written in C.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
-- [vivien/i3blocks](https://github.com/vivien/i3blocks) - A feed generator for text based status bars
+- [vivien/i3blocks](https://github.com/vivien/i3blocks) - The hacker-friendly status_command for Sway and i3
 - [pfultz2/Cloak](https://github.com/pfultz2/Cloak) - A mini-preprocessor library to demostrate the recursive capabilites of the preprocessor
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
@@ -672,6 +672,8 @@
 
 ## Python 
 
+- [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 A modern replacement for Airflow.
+- [benoitc/gunicorn](https://github.com/benoitc/gunicorn) - gunicorn 'Green Unicorn' is a WSGI HTTP Server for UNIX, fast clients and sleepy applications.
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time runtime type-checking in pure Python.
 - [Lightning-AI/metrics](https://github.com/Lightning-AI/metrics) - Machine learning metrics for distributed, scalable PyTorch applications.
 - [acheong08/ChatGPT](https://github.com/acheong08/ChatGPT) - Lightweight package for interacting with ChatGPT's API by OpenAI. Uses reverse engineered official API.
@@ -806,6 +808,7 @@
 - [seperman/deepdiff](https://github.com/seperman/deepdiff) - DeepDiff: Deep Difference and search of any Python object/data. DeepHash: Hash of any object based on its contents. Delta: Use deltas to reconstruct objects by adding deltas together.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [dmlc/dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 - [pytorch/benchmark](https://github.com/pytorch/benchmark) - TorchBench is a collection of open source benchmarks used to evaluate PyTorch performance.
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
@@ -1377,7 +1380,7 @@
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
 - [parca-dev/parca](https://github.com/parca-dev/parca) - Continuous profiling for analysis of CPU and memory usage, down to the line number and throughout time. Saving infrastructure cost, improving performance, and increasing reliability.
 - [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
-- [AlexTorresSk/custom-electron-titlebar](https://github.com/AlexTorresSk/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar
+- [AlexTorresDev/custom-electron-titlebar](https://github.com/AlexTorresDev/custom-electron-titlebar) - Custom electon title bar inpire on VS Code title bar
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [expo/vscode-expo](https://github.com/expo/vscode-expo) - Expo for vscode keeps you productive with intellisense and prebuild previews
 - [gorhom/react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
@@ -1387,7 +1390,6 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated) - React Native's Animated library reimplemented
 - [JMPerez/spotify-web-api-js](https://github.com/JMPerez/spotify-web-api-js) - A client-side JS wrapper for the Spotify Web API
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [react-navigation/react-navigation](https://github.com/react-navigation/react-navigation) - Routing and navigation for your React Native apps
 - [artyorsh/react-native-eva-icons](https://github.com/artyorsh/react-native-eva-icons) - ⭐Eva Icons for React Native
 - [akveo/eva-icons](https://github.com/akveo/eva-icons) - A pack of more than 480 beautifully crafted Open Source icons. SVG, Sketch, Web Font and Animations support.
