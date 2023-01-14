@@ -680,6 +680,7 @@
 
 ## Python 
 
+- [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
 - [patrick-kidger/torchtyping](https://github.com/patrick-kidger/torchtyping) - Type annotations and dynamic checking for a tensor's shape, dtype, names, etc.
 - [Kaggle/kaggle-api](https://github.com/Kaggle/kaggle-api) - Official Kaggle API
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
