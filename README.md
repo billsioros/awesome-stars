@@ -272,6 +272,7 @@
 
 - [primefaces/sakai-react](https://github.com/primefaces/sakai-react) - Free React Admin Template
 - [app-generator/django-datta-able](https://github.com/app-generator/django-datta-able) - Datta Able - Open-Source Django Dashboard | AppSeed
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 
 ## Clojure 
 
@@ -680,6 +681,8 @@
 
 ## Python 
 
+- [yhat/ggpy](https://github.com/yhat/ggpy) - ggplot port for python
+- [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [has2k1/plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python
 - [jmcarp/robobrowser](https://github.com/jmcarp/robobrowser) - 
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -1356,7 +1359,6 @@
 - [zbeekman/EditorConfig-Action](https://github.com/zbeekman/EditorConfig-Action) - 🔎A GitHub Action to check, enforce & fix EditorConfig style violations
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [sobolevn/misspell-fixer-action](https://github.com/sobolevn/misspell-fixer-action) - 📝Automatically fixes typos and mistakes in your source code and docs!
 - [RichardLitt/standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
