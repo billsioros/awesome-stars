@@ -686,6 +686,7 @@
 
 ## Python 
 
+- [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
