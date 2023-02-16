@@ -688,6 +688,7 @@
 
 ## Python 
 
+- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
@@ -737,7 +738,7 @@
 - [miguelgrinberg/python-socketio](https://github.com/miguelgrinberg/python-socketio) - Python Socket.IO server and client
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [darrenburns/rich-pixels](https://github.com/darrenburns/rich-pixels) - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
-- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Make big AI models cheaper, easier, and scalable
+- [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making big AI models cheaper, easier, and scalable
 - [bentoml/BentoML](https://github.com/bentoml/BentoML) - Unified Model Serving Framework 🍱
 - [marshmallow-code/flask-smorest](https://github.com/marshmallow-code/flask-smorest) - DB agnostic framework to build auto-documented REST APIs with Flask and marshmallow
 - [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
@@ -1140,7 +1141,7 @@
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [cfpb/collab](https://github.com/cfpb/collab) - Collab is a Django project with a standard set of configurations to provide services to reusable apps.
 - [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX) - tensorboard for pytorch (and chainer, mxnet, numpy, ...)
-- [pytorch/text](https://github.com/pytorch/text) - Data loaders and abstractions for text and NLP
+- [pytorch/text](https://github.com/pytorch/text) - Models, data loaders and abstractions for language processing, powered by PyTorch
 - [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt) - Distributed Asynchronous Hyperparameter Optimization in Python
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is a unified framework for scaling AI and Python applications. Ray consists of a core distributed runtime and a toolkit of libraries (Ray AIR) for accelerating ML workloads.
 - [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you c
