@@ -436,6 +436,7 @@
 
 ## JavaScript 
 
+- [karpathy/convnetjs](https://github.com/karpathy/convnetjs) - Deep Learning in Javascript. Train Convolutional Neural Networks (or ordinary ones) in your browser.
 - [typpo/textbelt](https://github.com/typpo/textbelt) - Free API for outgoing SMS
 - [cruip/tailwind-dashboard-template](https://github.com/cruip/tailwind-dashboard-template) - Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by
 - [prettier/prettier](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
@@ -573,7 +574,7 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
 - [google/evojax](https://github.com/google/evojax) - 
-- [openai/CLIP](https://github.com/openai/CLIP) - Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) - CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [fastai/fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 - [whylabs/whylogs](https://github.com/whylabs/whylogs) - The open standard for data logging
@@ -803,7 +804,7 @@
 - [robustness-gym/summvis](https://github.com/robustness-gym/summvis) - SummVis is an interactive visualization tool for text summarization.
 - [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI) - Launched in 2018. It's 2023 and PySimpleGUI is actively developed & supported. Create complex windows simply. Supports tkinter, Qt, WxPython, Remi (in browser). Create GUI applications trivially with 
 - [samuelcolvin/arq](https://github.com/samuelcolvin/arq) - Fast job queuing and RPC in python with asyncio and redis.
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [ionelmc/cookiecutter-pylibrary](https://github.com/ionelmc/cookiecutter-pylibrary) - Enhanced cookiecutter template for Python libraries.
 - [cruft/cruft](https://github.com/cruft/cruft) - Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.
 - [facebook/prophet](https://github.com/facebook/prophet) - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
