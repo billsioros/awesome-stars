@@ -690,6 +690,7 @@
 
 ## Python 
 
+- [ray-project/tune-sklearn](https://github.com/ray-project/tune-sklearn) - A drop-in replacement for Scikit-Learn’s GridSearchCV / RandomizedSearchCV -- but with cutting edge hyperparameter tuning techniques.
 - [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - 8-bit CUDA functions for PyTorch
