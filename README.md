@@ -652,7 +652,6 @@
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [marvinpinto/action-automatic-releases](https://github.com/marvinpinto/action-automatic-releases) - READONLY: Auto-generated mirror for https://github.com/marvinpinto/actions/tree/master/packages/automatic-releases
-- [ckz8780/market-toolkit](https://github.com/ckz8780/market-toolkit) - A collection of stock market resources and tools
 - [sdras/awesome-actions](https://github.com/sdras/awesome-actions) - A curated list of awesome actions to use on GitHub
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
