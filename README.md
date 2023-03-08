@@ -624,7 +624,6 @@
 ## OCaml 
 
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 
 ## Others 
 
@@ -704,7 +703,7 @@
 - [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
+- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python.
 - [yhat/ggpy](https://github.com/yhat/ggpy) - ggplot port for python
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [has2k1/plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python
@@ -1253,6 +1252,7 @@
 - [PanPapag/DANN](https://github.com/PanPapag/DANN) - Unsupervised Domain Adaptation by Backpropagation
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [PanPapag/Zero-Learning-Fast-Medical-Image-Fusion](https://github.com/PanPapag/Zero-Learning-Fast-Medical-Image-Fusion) - A real-time image fusion method using pre-trained neural networks
