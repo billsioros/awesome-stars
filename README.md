@@ -90,6 +90,7 @@
 
 ## C# # 
 
+- [keijiro/AIShader](https://github.com/keijiro/AIShader) - ChatGPT-powered shader generator for Unity
 - [natenho/Mockaco](https://github.com/natenho/Mockaco) - 🐵 HTTP mock server, useful to stub services and simulate dynamic API responses, leveraging ASP.NET Core features, built-in fake data generation and pure C# scripting
 - [bchavez/Bogus](https://github.com/bchavez/Bogus) - :card_index: A simple fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents) - The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement lea
