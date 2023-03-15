@@ -390,7 +390,7 @@
 
 ## HTML 
 
-- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - The most popular independent Tailwind library. 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
+- [mdbootstrap/Tailwind-Elements](https://github.com/mdbootstrap/Tailwind-Elements) - 𝙃𝙪𝙜𝙚 collection of Tailwind components, sections and templates 😎
 - [TanStack/react-charts](https://github.com/TanStack/react-charts) - ⚛️ Simple, immersive & interactive charts for React
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [cjroth/chronist](https://github.com/cjroth/chronist) - Long-term analysis of emotion, age, and sentiment using Lifeslice and text records.
@@ -707,7 +707,7 @@
 - [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of stable diffusion images.
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - Web apps in pure Python.
+- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [yhat/ggpy](https://github.com/yhat/ggpy) - ggplot port for python
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [has2k1/plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python
@@ -793,7 +793,7 @@
 - [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
 - [salesforce/factCC](https://github.com/salesforce/factCC) - Resources for the "Evaluating the Factual Consistency of Abstractive Text Summarization" paper
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to coordinate your dataflow
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - The easiest way to orchestrate and observe your data pipelines
 - [HazyResearch/flash-attention](https://github.com/HazyResearch/flash-attention) - Fast and memory-efficient exact attention
 - [neuml/txtai](https://github.com/neuml/txtai) - 💡 Build AI-powered semantic search applications
 - [jina-ai/discoart](https://github.com/jina-ai/discoart) - 🪩 Create Disco Diffusion artworks in one line
@@ -826,7 +826,7 @@
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Integrate Human Supervision into your Platform.  For all Training Data Types, Image, Video, 3D, Text, Geo, Audio, Compound, Grid, LLM, Conversational, and more.
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - Integrate Human Supervision into your Platform.  For all Training Data Types, Image, Video, 3D, Text, Geo, Audio, Compound, Grid, LLM, GPT, Conversational, and more.
 - [martiansideofthemoon/rankgen](https://github.com/martiansideofthemoon/rankgen) - Official code and model checkpoints for our EMNLP 2022 paper "RankGen - Improving Text Generation with Large Ranking Models" (https://arxiv.org/abs/2205.09726).
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [manifoldai/orbyter-cookiecutter](https://github.com/manifoldai/orbyter-cookiecutter) - Dockerized ML Cookiecutter
