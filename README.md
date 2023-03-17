@@ -691,6 +691,7 @@
 
 ## Python 
 
+- [plangrid/flask-rebar](https://github.com/plangrid/flask-rebar) - Flask-Rebar combines flask, marshmallow, and swagger for robust REST services.
 - [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui) - Python TUI framework with mouse support, modular widget system, customizable and rapid terminal markup language and more!
 - [lucidrains/lion-pytorch](https://github.com/lucidrains/lion-pytorch) - 🦁 Lion, new optimizer discovered by Google Brain using genetic algorithms that is purportedly better than Adam(w), in Pytorch
 - [hyperopt/hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn) - Hyper-parameter optimization for sklearn
