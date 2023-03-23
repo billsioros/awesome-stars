@@ -985,6 +985,7 @@
 - [getsentry/responses](https://github.com/getsentry/responses) - A utility for mocking out the Python Requests library.
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [lavr/python-emails](https://github.com/lavr/python-emails) - Modern python library for emails
+- [app-generator/boilerplate-code-django-dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard) - Boilerplate Code - Django Dashboard | AppSeed
 - [dry-python/returns](https://github.com/dry-python/returns) - Make your functions return something meaningful, typed, and safe!
 - [cookiecutter-flask/cookiecutter-flask](https://github.com/cookiecutter-flask/cookiecutter-flask) - A flask template with Bootstrap, asset bundling+minification with webpack, starter templates, and registration/authentication. For use with cookiecutter.
 - [nipunramk/Reducible](https://github.com/nipunramk/Reducible) - Repository containing all code for the videos on the Reducible YouTube channel
@@ -1361,7 +1362,6 @@
 ## SCSS 
 
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
-- [app-generator/boilerplate-code-django-dashboard](https://github.com/app-generator/boilerplate-code-django-dashboard) - Boilerplate Code - Django Dashboard | AppSeed
 - [conventional-commits/conventionalcommits.org](https://github.com/conventional-commits/conventionalcommits.org) - The conventional commits specification
 - [machine-learning-apps/Issue-Label-Bot](https://github.com/machine-learning-apps/Issue-Label-Bot) - Code For The Issue Label Bot, an App that automatically labels issues using machine learning, available on the GitHub Marketplace.   This is also code for the blog article: "How to automate tasks on G
 - [darklow/django-suit](https://github.com/darklow/django-suit) - Modern theme for Django admin interface
