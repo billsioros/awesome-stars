@@ -928,7 +928,7 @@
 - [brettcannon/gidgethub](https://github.com/brettcannon/gidgethub) - An async GitHub API library for Python
 - [asottile/yesqa](https://github.com/asottile/yesqa) - Automatically remove unnecessary `# noqa` comments
 - [gabrielfalcao/HTTPretty](https://github.com/gabrielfalcao/HTTPretty) - Intercept HTTP requests at the Python socket level. Fakes the whole socket module
-- [illBeRoy/taskipy](https://github.com/illBeRoy/taskipy) - the complementary task runner for python
+- [taskipy/taskipy](https://github.com/taskipy/taskipy) - the complementary task runner for python
 - [niklasf/python-chess](https://github.com/niklasf/python-chess) - A chess library for Python, with move generation and validation, PGN parsing and writing, Polyglot opening book reading, Gaviota tablebase probing, Syzygy tablebase probing, and UCI/XBoard engine comm
 - [pytorch/captum](https://github.com/pytorch/captum) - Model interpretability and understanding for PyTorch
 - [Lightning-AI/lightning-bolts](https://github.com/Lightning-AI/lightning-bolts) - Toolbox of models, callbacks, and datasets for AI/ML researchers.
@@ -1430,6 +1430,7 @@
 
 ## TypeScript 
 
+- [withastro/astro](https://github.com/withastro/astro) - Astro is the all-in-one web framework designed for speed 🏝️✨
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
 - [benkeen/generatedata](https://github.com/benkeen/generatedata) - A powerful, feature-rich, random test data generator.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
