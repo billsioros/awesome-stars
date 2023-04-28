@@ -703,6 +703,7 @@
 
 ## Python 
 
+- [deep-floyd/IF](https://github.com/deep-floyd/IF) - 
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
