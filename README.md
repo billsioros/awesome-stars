@@ -150,6 +150,7 @@
 
 ## C++ 
 
+- [NVIDIA/MatX](https://github.com/NVIDIA/MatX) - An efficient C++17 GPU numerical computing library with Python-like syntax
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [eth-easl/cachew](https://github.com/eth-easl/cachew) - ML Input Data Processing as a Service. This repository contains the source code for Cachew (built on top of TensorFlow).
@@ -577,6 +578,7 @@
 
 ## Jupyter Notebook 
 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [google/prompt-to-prompt](https://github.com/google/prompt-to-prompt) - 
 - [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) - Neural Networks: Zero to Hero
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
@@ -712,6 +714,7 @@
 
 ## Python 
 
+- [hynek/environ-config](https://github.com/hynek/environ-config) - Python Application Configuration With Environment Variables
 - [marshmallow-code/webargs](https://github.com/marshmallow-code/webargs) - A friendly library for parsing HTTP request arguments, with built-in support for popular web frameworks, including Flask, Django, Bottle, Tornado, Pyramid, webapp2, Falcon, and aiohttp.
 - [openai/tiktoken](https://github.com/openai/tiktoken) - tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [timothybrooks/instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix) - 
@@ -1482,6 +1485,7 @@
 
 ## TypeScript 
 
+- [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [wong2/chatgpt-google-extension](https://github.com/wong2/chatgpt-google-extension) - A browser extension that enhance search engines with ChatGPT
 - [mpociot/chatgpt-vscode](https://github.com/mpociot/chatgpt-vscode) - A VSCode extension that allows you to use ChatGPT
 - [codota/tabnine-vscode](https://github.com/codota/tabnine-vscode) - Visual Studio Code client for Tabnine. https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode
