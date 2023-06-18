@@ -106,7 +106,7 @@
 - [dotnet/BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking
 - [dotnet/csharplang](https://github.com/dotnet/csharplang) - The official repo for the design of the C# programming language
 - [keijiro/Lasp](https://github.com/keijiro/Lasp) - Low-latency Audio Signal Processing plugin for Unity
-- [keijiro/Voxelman](https://github.com/keijiro/Voxelman) - Unity ECS + C# Job System example
+- [keijiro/Voxelman](https://github.com/keijiro/Voxelman) - Unity DOTS/ECS example
 - [keijiro/Kino](https://github.com/keijiro/Kino) - A collection of custom post processing effects for Unity
 - [keijiro/Klak](https://github.com/keijiro/Klak) - Creative coding library for Unity
 - [keijiro/KinoGlitch](https://github.com/keijiro/KinoGlitch) - Video glitch effects for Unity
@@ -731,6 +731,7 @@
 
 ## Python 
 
+- [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
 - [p5py/p5](https://github.com/p5py/p5) - p5 is a Python package based on the core ideas of Processing.
 - [scientific-python/cookie](https://github.com/scientific-python/cookie) - Scientific Python Library Development Guide and Cookiecutter
@@ -1479,6 +1480,7 @@
 
 ## Shell 
 
+- [awslabs/git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 - [dtcooper/raspotify](https://github.com/dtcooper/raspotify) - A Spotify Connect client that mostly Just Works™
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [xu-cheng/latex-action](https://github.com/xu-cheng/latex-action) - :octocat: GitHub Action to compile LaTeX documents
