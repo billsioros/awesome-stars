@@ -346,7 +346,6 @@
 - [benbjohnson/litestream](https://github.com/benbjohnson/litestream) - Streaming replication for SQLite.
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [berty/berty](https://github.com/berty/berty) - Berty is a secure peer-to-peer messaging app that works with or without internet access, cellular data or trust in the network
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
@@ -536,6 +535,7 @@
 - [xotahal/react-native-material-ui](https://github.com/xotahal/react-native-material-ui) - Highly customizable material design components for React Native
 - [necolas/react-native-web](https://github.com/necolas/react-native-web) - Cross-platform React UI packages
 - [prescottprue/react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) - Redux bindings for Firebase. Includes React Hooks and Higher Order Components.
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [yarnpkg/yarn](https://github.com/yarnpkg/yarn) - The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry
@@ -567,7 +567,6 @@
 - [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 - [processing/p5.js](https://github.com/processing/p5.js) - p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processin
-- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [KaTeX/KaTeX](https://github.com/KaTeX/KaTeX) - Fast math typesetting for the web.
 - [Learus/DOMElementHistory](https://github.com/Learus/DOMElementHistory) - Javascript forward-backward functionality given a certain DOM Element. Works like browser history but for a specific element.
 - [viatsko/awesome-vscode](https://github.com/viatsko/awesome-vscode) - 🎨 A curated list of delightful VS Code packages and resources.
@@ -731,6 +730,11 @@
 
 ## Python 
 
+- [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - An open platform for operating large language models (LLMs) in production. Fine-tune, serve, deploy, and monitor any LLMs with ease.
+- [se2p/pynguin](https://github.com/se2p/pynguin) - The PYthoN General UnIt Test geNerator is a test-generation tool for Python
+- [FactoryBoy/factory_boy](https://github.com/FactoryBoy/factory_boy) - A test fixtures replacement for Python
+- [flexmock/flexmock](https://github.com/flexmock/flexmock) - Mock/stub/spy library for Python
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [facebookresearch/ParlAI](https://github.com/facebookresearch/ParlAI) - A framework for training and evaluating AI models on a variety of openly available dialogue datasets.
 - [py-pdf/pypdf](https://github.com/py-pdf/pypdf) - A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files
@@ -742,7 +746,7 @@
 - [koaning/mktestdocs](https://github.com/koaning/mktestdocs) - Run pytest against markdown files/docstrings.
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
-- [Lightning-AI/lit-parrot](https://github.com/Lightning-AI/lit-parrot) - Implementation of Falcon, StableLM, Pythia, INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+- [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Implementation of Falcon, StableLM, Pythia, INCITE language models based on nanoGPT. Supports flash attention, LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [aws/deep-learning-containers](https://github.com/aws/deep-learning-containers) - AWS Deep Learning Containers (DLCs) are a set of Docker images for training and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
 - [spyoungtech/grequests](https://github.com/spyoungtech/grequests) - Requests + Gevent = &lt;3
@@ -966,6 +970,7 @@
 - [seperman/deepdiff](https://github.com/seperman/deepdiff) - DeepDiff: Deep Difference and search of any Python object/data. DeepHash: Hash of any object based on its contents. Delta: Use deltas to reconstruct objects by adding deltas together.
 - [pypa/hatch](https://github.com/pypa/hatch) - Modern, extensible Python project management
 - [DLR-RM/stable-baselines3](https://github.com/DLR-RM/stable-baselines3) - PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms.
+- [determined-ai/determined](https://github.com/determined-ai/determined) - Determined: Deep Learning Training Platform
 - [dmlc/dgl](https://github.com/dmlc/dgl) - Python package built to ease deep learning on graph, on top of existing DL frameworks.
 - [pytorch/benchmark](https://github.com/pytorch/benchmark) - TorchBench is a collection of open source benchmarks used to evaluate PyTorch performance.
 - [theskumar/python-dotenv](https://github.com/theskumar/python-dotenv) - Reads key-value pairs from a .env file and can set them as environment variables. It helps in developing applications following the 12-factor principles.
@@ -1537,6 +1542,7 @@
 
 ## TypeScript 
 
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - a very good whiteboard
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
@@ -1565,7 +1571,7 @@
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
-- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
+- [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Nightly Build artifacts for https://github.com/BuilderIO/qwik
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
 - [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
@@ -1650,7 +1656,6 @@
 - [desktop/desktop](https://github.com/desktop/desktop) - Focus on what matters instead of fighting with Git.
 - [amilajack/popcorn-time-desktop](https://github.com/amilajack/popcorn-time-desktop) - 🍿 🕐 🎞  A Modern Popcorn Time Client
 - [shanalikhan/code-settings-sync](https://github.com/shanalikhan/code-settings-sync) - 🌴💪 Synchronize your Visual Studio Code Settings Across Multiple Machines using GitHub GIST 💪🌴
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
 - [storybookjs/storybook](https://github.com/storybookjs/storybook) - Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation.
 - [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 - [image-size/image-size](https://github.com/image-size/image-size) - Node module for detecting image dimensions
@@ -1672,6 +1677,7 @@
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [Learus/react-material-ui-carousel](https://github.com/Learus/react-material-ui-carousel) - A Generic carousel UI component for React using Material UI.
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
+- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## V 
