@@ -737,6 +737,7 @@
 
 ## Python 
 
+- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
@@ -908,7 +909,7 @@
 - [tamarott/SinGAN](https://github.com/tamarott/SinGAN) - Official pytorch implementation of the paper: "SinGAN: Learning a Generative Model from a Single Natural Image"
 - [THUDM/CogVideo](https://github.com/THUDM/CogVideo) - Text-to-video generation. The repo for ICLR2023 paper "CogVideo: Large-scale Pretraining for Text-to-Video Generation via Transformers"
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A youtube-dl fork with additional features and fixes
-- [geohot/tinygrad](https://github.com/geohot/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
+- [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [rom1504/img2dataset](https://github.com/rom1504/img2dataset) - Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine.
 - [salesforce/factCC](https://github.com/salesforce/factCC) - Resources for the "Evaluating the Factual Consistency of Abstractive Text Summarization" paper
 - [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
@@ -944,7 +945,7 @@
 - [online-ml/river](https://github.com/online-ml/river) - 🌊 Online machine learning in Python
 - [ml-tooling/best-of-python-dev](https://github.com/ml-tooling/best-of-python-dev) - 🏆 A ranked list of awesome python developer tools and libraries. Updated weekly.
 - [lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) - Implementation of Vision Transformer, a simple way to achieve SOTA in vision classification with only a single transformer encoder, in Pytorch
-- [diffgram/diffgram](https://github.com/diffgram/diffgram) - We’re the AI Datastore for Schemas, BLOBs, and Predictions in one place. Use with your apps or integrate our built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your
+- [diffgram/diffgram](https://github.com/diffgram/diffgram) - The AI Datastore for Schemas, BLOBs, and Predictions. Use with your apps or integrate built-in Human Supervision, Data Workflow, and UI Catalog to get the most value out of your AI Data.
 - [martiansideofthemoon/rankgen](https://github.com/martiansideofthemoon/rankgen) - Official code and model checkpoints for our EMNLP 2022 paper "RankGen - Improving Text Generation with Large Ranking Models" (https://arxiv.org/abs/2205.09726).
 - [Textualize/rich-cli](https://github.com/Textualize/rich-cli) - Rich-cli is a command line toolbox for fancy output in the terminal
 - [manifoldai/orbyter-cookiecutter](https://github.com/manifoldai/orbyter-cookiecutter) - Dockerized ML Cookiecutter
@@ -1649,7 +1650,7 @@
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%), but is fully open source.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
