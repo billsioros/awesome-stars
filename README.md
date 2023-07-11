@@ -1291,7 +1291,7 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [flask-api/flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - SeleniumBase is a framework for browser automation and testing with Selenium, Python, and pytest. Includes: Dashboards, Reports, a Recorder, GUI tools, and lots of documentation.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - A Python framework that inspires developers to become better test automation engineers. 🧠💡
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
