@@ -759,7 +759,7 @@
 - [koaning/mktestdocs](https://github.com/koaning/mktestdocs) - Run pytest against markdown files/docstrings.
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
-- [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-l
+- [Lightning-AI/lit-gpt](https://github.com/Lightning-AI/lit-gpt) - Hackable implementation of state-of-the-art open-source LLMs based on nanoGPT. Supports flash attention, 4-bit and 8-bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-lice
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [aws/deep-learning-containers](https://github.com/aws/deep-learning-containers) - AWS Deep Learning Containers (DLCs) are a set of Docker images for training and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
 - [spyoungtech/grequests](https://github.com/spyoungtech/grequests) - Requests + Gevent = &lt;3
@@ -828,7 +828,7 @@
 - [scikit-learn-contrib/imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - A Python Package to Tackle the Curse of Imbalanced Datasets in Machine Learning
 - [mlflow/mlflow](https://github.com/mlflow/mlflow) - Open source platform for the machine learning lifecycle
 - [brycedrennan/imaginAIry](https://github.com/brycedrennan/imaginAIry) - AI imagined images. Pythonic generation of images.
-- [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
+- [pynecone-io/reflex](https://github.com/pynecone-io/reflex) - 🕸 Web apps in pure Python 🐍
 - [yhat/ggpy](https://github.com/yhat/ggpy) - ggplot port for python
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [has2k1/plotnine](https://github.com/has2k1/plotnine) - A grammar of graphics for Python
@@ -1582,14 +1582,14 @@
 - [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - A JavaScript library to position floating elements and create interactions for them.
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [Nutlope/roomGPT](https://github.com/Nutlope/roomGPT) - Upload a photo of your room to generate your dream room with AI.
-- [Renumics/spotlight](https://github.com/Renumics/spotlight) - Curation tool for unstructured data that connects your stack to the data-centric AI ecosystem.
+- [Renumics/spotlight](https://github.com/Renumics/spotlight) - Identify critical data slices in your unstructured machine learning data.
 - [benkeen/generatedata](https://github.com/benkeen/generatedata) - A powerful, feature-rich, random test data generator.
 - [tremorlabs/tremor](https://github.com/tremorlabs/tremor) - The React library to build dashboards fast.
 - [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the official ChatGPT API. 🔥
 - [dineug/erd-editor](https://github.com/dineug/erd-editor) - Entity-Relationship Diagram Editor
 - [BuilderIO/figma-html](https://github.com/BuilderIO/figma-html) - Builder.io for Figma: AI generation, export to code, import from web
 - [BuilderIO/qwik](https://github.com/BuilderIO/qwik) - Instant-loading web apps, without effort
-- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Seamlessly visualize your JSON data instantly into graphs.
+- [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - ✨ Innovative and open-source visualization application that transforms various data formats, such as JSON, YAML, XML, CSV and more, into interactive graphs.
 - [jupyter-widgets/ipywidgets](https://github.com/jupyter-widgets/ipywidgets) - Interactive Widgets for the Jupyter Notebook
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Built with React + TypeScript, Payload is a free and open-source Headless CMS. [✩Star] if you support our work!
 - [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
