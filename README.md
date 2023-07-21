@@ -605,6 +605,7 @@
 - [rasbt/python-machine-learning-book-3rd-edition](https://github.com/rasbt/python-machine-learning-book-3rd-edition) - The "Python Machine Learning (3rd edition)" book code repository
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
+- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
 - [lazavgeridis/mddgan](https://github.com/lazavgeridis/mddgan) - Implementation of my B.Sc. Thesis titled "MddGAN : Multilinear Analysis of the GAN Latent Space".
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws) - AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker
@@ -739,6 +740,8 @@
 
 ## Python 
 
+- [jina-ai/fastapi-serve](https://github.com/jina-ai/fastapi-serve) - FastAPI to the Cloud, Batteries Included!
+- [Neoteroi/mkdocs-plugins](https://github.com/Neoteroi/mkdocs-plugins) - Plugins for MkDocs.
 - [jacobgil/pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam) - Advanced AI Explainability for computer vision.  Support for CNNs, Vision Transformers, Classification, Object detection, Segmentation, Image similarity and more.
 - [Lightning-AI/deep-learning-project-template](https://github.com/Lightning-AI/deep-learning-project-template) - Pytorch Lightning code guideline for conferences
 - [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
@@ -893,7 +896,6 @@
 - [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
 - [vimalloc/flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended) - An open source Flask extension that provides JWT support (with batteries included)!
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
-- [evidentlyai/evidently](https://github.com/evidentlyai/evidently) - Evaluate and monitor ML models from validation to production. Join our Discord: https://discord.com/invite/xZjKRaNp8b
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
 - [nicohlr/ipychart](https://github.com/nicohlr/ipychart) - The power of Chart.js with Python
 - [chakki-works/sumeval](https://github.com/chakki-works/sumeval) - Well tested & Multi-language evaluation framework for text summarization.
@@ -1294,7 +1296,7 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [flask-api/flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's most advanced framework for browser automation and testing. 🐉
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 Python's best framework for browser automation and testing.
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
@@ -1443,7 +1445,7 @@
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [jonasbb/pre-commit-latex-hooks](https://github.com/jonasbb/pre-commit-latex-hooks) - pre-commit hooks to improve LaTeX writing.
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack GUI library for desktop, web, mobile, and more.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [ahhhh6980/Mosaic](https://github.com/ahhhh6980/Mosaic) - Takes a folder of images (as a palette), and an image, and figures out how to tile the palette to resemble the image!
@@ -1656,7 +1658,7 @@
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Pro has limited accuracy (40 - 60%).
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Compared to Fingerprint Identification, has limited accuracy (40 - 60%).
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
