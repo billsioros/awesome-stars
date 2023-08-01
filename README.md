@@ -439,6 +439,7 @@
 
 ## Java 
 
+- [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [pytorch/serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 - [makropoulosP/parkingApp_v2.0](https://github.com/makropoulosP/parkingApp_v2.0) - 
 - [rstudio/rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
@@ -672,6 +673,7 @@
 
 ## Others 
 
+- [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
 - [pdm-project/awesome-pdm](https://github.com/pdm-project/awesome-pdm) - A curated list of awesome PDM plugins and resources
 - [mbzuai-nlp/LaMini-LM](https://github.com/mbzuai-nlp/LaMini-LM) - LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions
@@ -1443,6 +1445,7 @@
 
 ## Rust 
 
+- [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
