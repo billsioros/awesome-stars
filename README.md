@@ -943,7 +943,7 @@
 - [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch) - Implementation of DALL-E 2, OpenAI's updated text-to-image synthesis neural network,  in Pytorch
 - [danieldeutsch/repro](https://github.com/danieldeutsch/repro) - Repro is a library for easily running code from published papers via Docker.
 - [python-restx/flask-restx](https://github.com/python-restx/flask-restx) - Fork of Flask-RESTPlus: Fully featured framework for fast, easy and documented API development with Flask
-- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Declarative framework for building LLMs, neural networks, and GBMs
+- [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig) - Low-code framework for building custom LLMs, neural networks, and other AI models
 - [Parquery/icontract](https://github.com/Parquery/icontract) - Design-by-contract in Python3 with informative violation messages and inheritance
 - [karec/cookiecutter-flask-restful](https://github.com/karec/cookiecutter-flask-restful) - Flask cookiecutter template for builing APIs with flask-restful, including JWT auth, cli, tests, swagger, docker and more
 - [flask-restful/flask-restful](https://github.com/flask-restful/flask-restful) - Simple framework for creating REST APIs
