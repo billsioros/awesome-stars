@@ -758,6 +758,8 @@
 
 ## Python 
 
+- [django/daphne](https://github.com/django/daphne) - Django Channels HTTP/WebSocket server
+- [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [geoalchemy/geoalchemy2](https://github.com/geoalchemy/geoalchemy2) - Geospatial extension to SQLAlchemy
 - [collerek/ormar](https://github.com/collerek/ormar) - python async orm with fastapi in mind and pydantic validation
