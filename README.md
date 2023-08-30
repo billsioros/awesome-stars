@@ -758,6 +758,8 @@
 
 ## Python 
 
+- [laurentS/slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI
+- [python-injector/injector](https://github.com/python-injector/injector) - Python dependency injection framework, inspired by Guice
 - [django/daphne](https://github.com/django/daphne) - Django Channels HTTP/WebSocket server
 - [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
