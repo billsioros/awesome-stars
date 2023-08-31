@@ -248,7 +248,7 @@
 - [jnferguson/hpack-rfc7541](https://github.com/jnferguson/hpack-rfc7541) - header-only c++ implementation of a HTTPv2 HPACK/RFC7541 encoder /decoder
 - [muellan/clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
 - [brunocodutra/metal](https://github.com/brunocodutra/metal) - Love template metaprogramming
-- [copperspice/copperspice](https://github.com/copperspice/copperspice) - Cross platform C++ libraries
+- [copperspice/copperspice](https://github.com/copperspice/copperspice) - Set of cross platform C++ libraries (Gui, Network, Multimedia, etc)
 - [taocpp/sequences](https://github.com/taocpp/sequences) - Variadic templates and std::integer_sequence support library
 - [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
 - [cycfi/elements](https://github.com/cycfi/elements) - Elements C++ GUI library
@@ -758,6 +758,7 @@
 
 ## Python 
 
+- [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [laurentS/slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI
 - [python-injector/injector](https://github.com/python-injector/injector) - Python dependency injection framework, inspired by Guice
 - [django/daphne](https://github.com/django/daphne) - Django Channels HTTP/WebSocket server
