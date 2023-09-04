@@ -795,7 +795,7 @@
 - [Lightning-AI/deep-learning-project-template](https://github.com/Lightning-AI/deep-learning-project-template) - Pytorch Lightning code guideline for conferences
 - [mirumee/ariadne](https://github.com/mirumee/ariadne) - Python library for implementing GraphQL servers using schema-first approach.
 - [yezz123/authx](https://github.com/yezz123/authx) - Ready-to-use and customizable Authentications and Oauth2 management for FastAPI ✨
-- [0xpayne/gpt-migrate](https://github.com/0xpayne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
+- [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [facelessuser/pymdown-extensions](https://github.com/facelessuser/pymdown-extensions) - Extensions for Python Markdown
 - [Yelp/detect-secrets](https://github.com/Yelp/detect-secrets) - An enterprise friendly way of detecting and preventing secrets in code.
