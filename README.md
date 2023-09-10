@@ -55,6 +55,7 @@
 - [VBScript](#vbscript)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [reStructuredText](#restructuredtext)
 
 ## C 
 
@@ -174,7 +175,6 @@
 - [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro) - Infrastructure to enable deployment of ML models to low-power resource-constrained embedded targets (including microcontrollers and digital signal processors).
 - [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB) - oneAPI Threading Building Blocks (oneTBB)
 - [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
-- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [wonday/react-native-pdf](https://github.com/wonday/react-native-pdf) - A &lt;Pdf /&gt; component for react-native
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) - ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
@@ -341,6 +341,7 @@
 
 ## Go 
 
+- [karan/joe](https://github.com/karan/joe) - :running: A .gitignore magician in your command line
 - [distribution/distribution](https://github.com/distribution/distribution) - The toolkit to pack, ship, store, and deliver container content
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [apptainer/apptainer](https://github.com/apptainer/apptainer) - Apptainer: Application containers for Linux
@@ -453,6 +454,7 @@
 - [makropoulosP/parkingApp_v2.0](https://github.com/makropoulosP/parkingApp_v2.0) - 
 - [rstudio/rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
 - [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store
+- [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
 - [luggit/react-native-config](https://github.com/luggit/react-native-config) - Bring some 12 factor love to your mobile apps!
 - [devnied/EMV-NFC-Paycard-Enrollment](https://github.com/devnied/EMV-NFC-Paycard-Enrollment) - A Java library used to read and extract data from NFC EMV credit cards (Android/PCSC).
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
@@ -484,7 +486,7 @@
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming and whiteboarding
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [alyssaxuu/slashy](https://github.com/alyssaxuu/slashy) - Supercharge Notion with custom commands to record, draw, and more ✍️
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🌩 Cloud-scale serverless load testing, as easy as 1-2-3. No DevOps needed. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-scale load testing, as easy as 1-2-3. Distributed & serverless. Never fail to scale!
 - [googlecreativelab/teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [ColinEberhardt/wasm-sudoku-solver](https://github.com/ColinEberhardt/wasm-sudoku-solver) - a WebAssembly-powered AR sudoku solver
@@ -761,6 +763,7 @@
 
 ## Python 
 
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [yezz123/fastapi-lazy](https://github.com/yezz123/fastapi-lazy) - Lazy package to start your project using FastAPI✨
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [mosquito/aiormq](https://github.com/mosquito/aiormq) - Pure python AMQP 0.9.1 asynchronous client library
@@ -771,7 +774,6 @@
 - [laurentS/slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI
 - [python-injector/injector](https://github.com/python-injector/injector) - Python dependency injection framework, inspired by Guice
 - [django/daphne](https://github.com/django/daphne) - Django Channels HTTP/WebSocket server
-- [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 - [amoffat/sh](https://github.com/amoffat/sh) - Python process launching
 - [geoalchemy/geoalchemy2](https://github.com/geoalchemy/geoalchemy2) - Geospatial extension to SQLAlchemy
 - [collerek/ormar](https://github.com/collerek/ormar) - python async orm with fastapi in mind and pydantic validation
@@ -1491,7 +1493,7 @@
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
 - [rustformers/llm](https://github.com/rustformers/llm) - An ecosystem of Rust libraries for working with large language models
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
-- [cnpryer/huak](https://github.com/cnpryer/huak) - [poc] A Python package manager written in Rust inspired by Cargo.
+- [cnpryer/huak](https://github.com/cnpryer/huak) - [wip] A Python package manager written in Rust inspired by Cargo.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust.
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [jonasbb/pre-commit-latex-hooks](https://github.com/jonasbb/pre-commit-latex-hooks) - pre-commit hooks to improve LaTeX writing.
@@ -1615,6 +1617,8 @@
 
 ## TypeScript 
 
+- [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
+- [swordev/suid](https://github.com/swordev/suid) - A port of Material-UI (MUI) built with SolidJS.
 - [nextui-org/nextui](https://github.com/nextui-org/nextui) - 🚀   Beautiful, fast and modern React UI library.
 - [socketio/socket.io-client](https://github.com/socketio/socket.io-client) - Realtime application framework (client)
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
@@ -1772,6 +1776,10 @@
 ## WebAssembly 
 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+
+## reStructuredText 
+
+- [python/peps](https://github.com/python/peps) - Python Enhancement Proposals
 
 
 ## License
