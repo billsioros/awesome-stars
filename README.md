@@ -55,6 +55,7 @@
 - [VBScript](#vbscript)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [Zig](#zig)
 - [reStructuredText](#restructuredtext)
 
 ## C 
@@ -690,6 +691,7 @@
 
 ## Others 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting.
 - [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design) - Learn how to design systems at scale and prepare for system design interviews
 - [mypyc/mypyc](https://github.com/mypyc/mypyc) - Compile type annotated Python to fast C extensions
@@ -1776,6 +1778,10 @@
 ## WebAssembly 
 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+
+## Zig 
+
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 ## reStructuredText 
 
