@@ -60,7 +60,7 @@
 
 ## C 
 
-- [dspinellis/ai-cli](https://github.com/dspinellis/ai-cli) - Add AI capabilities to any readline-enabled command-line program
+- [dspinellis/ai-cli-lib](https://github.com/dspinellis/ai-cli-lib) - Add AI capabilities to any readline-enabled command-line program
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp) - Port of OpenAI's Whisper model in C/C++
 - [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome) - A self-contained cryptographic library for Python
@@ -503,7 +503,7 @@
 - [alexlenail/NN-SVG](https://github.com/alexlenail/NN-SVG) - Publication-ready NN-architecture schematics.
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 - [acdlite/recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components.
-- [remarkjs/remark](https://github.com/remarkjs/remark) - remark is a popular tool that transforms markdown with plugins. These plugins can inspect and change your markup. You can use remark on the server, the client, CLIs, deno, etc.
+- [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [automerge/automerge-classic](https://github.com/automerge/automerge-classic) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
 - [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac.
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
@@ -612,7 +612,6 @@
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [Stability-AI/StableLM](https://github.com/Stability-AI/StableLM) - StableLM: Stability AI Language Models
 - [suno-ai/bark](https://github.com/suno-ai/bark) - 🔊 Text-Prompted Generative Audio Model
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [tloen/alpaca-lora](https://github.com/tloen/alpaca-lora) - Instruct-tune LLaMA on consumer hardware
 - [sylinrl/TruthfulQA](https://github.com/sylinrl/TruthfulQA) - TruthfulQA: Measuring How Models Imitate Human Falsehoods
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
@@ -766,6 +765,8 @@
 
 ## Python 
 
+- [lorien/grab](https://github.com/lorien/grab) - Web Scraping Framework
+- [klen/py-frameworks-bench](https://github.com/klen/py-frameworks-bench) - Another benchmark for some python frameworks
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
@@ -834,7 +835,7 @@
 - [facebookresearch/VLaMP](https://github.com/facebookresearch/VLaMP) - Code for “Pretrained Language Models as Visual Planners for Human Assistance”
 - [br3ndonland/inboard](https://github.com/br3ndonland/inboard) - 🚢 Docker images and utilities to power your Python APIs and help you ship faster. With support for Uvicorn, Gunicorn, Starlette, and FastAPI.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of autoregressive language models.
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is a Python library that integrates generative artificial intelligence capabilities into pandas, making dataframes conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - PandasAI is the Python library that integrates Gen AI into pandas, making data analysis conversational
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools
@@ -868,6 +869,7 @@
 - [hwchase17/langchain-hub](https://github.com/hwchase17/langchain-hub) - 
 - [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins) - Plugins for Auto-GPT
 - [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
 - [yizhongw/self-instruct](https://github.com/yizhongw/self-instruct) - Aligning pretrained language models with instruction data generated by themselves.
@@ -1138,7 +1140,7 @@
 - [pytest-dev/pytest-html](https://github.com/pytest-dev/pytest-html) - Plugin for generating HTML reports for pytest results
 - [hackebrot/pytest-cookies](https://github.com/hackebrot/pytest-cookies) - The pytest plugin for your Cookiecutter templates. 🍪
 - [Teemu/pytest-sugar](https://github.com/Teemu/pytest-sugar) - a plugin for py.test that changes the default look and feel of py.test (e.g. progressbar, show tests that fail instantly)
-- [DataDog/mkdocs-click](https://github.com/DataDog/mkdocs-click) - An MkDocs extension to generate documentation for Click command line applications
+- [mkdocs/mkdocs-click](https://github.com/mkdocs/mkdocs-click) - An MkDocs extension to generate documentation for Click command line applications
 - [alex/rply](https://github.com/alex/rply) - An attempt to port David Beazley's PLY to RPython, and give it a cooler API.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [kivy/python-for-android](https://github.com/kivy/python-for-android) - Turn your Python application into an Android APK
