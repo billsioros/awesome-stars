@@ -788,7 +788,7 @@
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [dbrattli/Expression](https://github.com/dbrattli/Expression) - Pragmatic functional programming for Python inspired by F#
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [yezz123/fastapi-lazy](https://github.com/yezz123/fastapi-lazy) - Lazy package to start your project using FastAPI✨
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [mosquito/aiormq](https://github.com/mosquito/aiormq) - Pure python AMQP 0.9.1 asynchronous client library
