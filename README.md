@@ -60,6 +60,7 @@
 
 ## C 
 
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [marella/ctransformers](https://github.com/marella/ctransformers) - Python bindings for the Transformer models implemented in C/C++ using GGML library.
 - [dspinellis/ai-cli-lib](https://github.com/dspinellis/ai-cli-lib) - Add AI capabilities to any readline-enabled command-line program
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
@@ -328,6 +329,7 @@
 
 ## Dockerfile 
 
+- [linuxserver/docker-wireguard](https://github.com/linuxserver/docker-wireguard) - 
 - [radix-ai/poetry-cookiecutter](https://github.com/radix-ai/poetry-cookiecutter) - 🐍 A modern Cookiecutter template for scaffolding Python packages and apps.
 - [dotnet/docs](https://github.com/dotnet/docs) - This repository contains .NET Documentation.
 
@@ -457,6 +459,7 @@
 
 ## Java 
 
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for the Modern Data Stack
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [pytorch/serve](https://github.com/pytorch/serve) - Serve, optimize and scale PyTorch models in production
 - [makropoulosP/parkingApp_v2.0](https://github.com/makropoulosP/parkingApp_v2.0) - 
@@ -985,7 +988,7 @@
 - [chakki-works/sumeval](https://github.com/chakki-works/sumeval) - Well tested & Multi-language evaluation framework for text summarization.
 - [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [takluyver/pynsist](https://github.com/takluyver/pynsist) - Build Windows installers for Python applications
-- [mosaicml/composer](https://github.com/mosaicml/composer) - Train neural networks up to 7x faster
+- [mosaicml/composer](https://github.com/mosaicml/composer) - Supercharge Your Model Training
 - [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) - DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to train and use PyTorch models with multi-GPU, TPU, mixed-precision
