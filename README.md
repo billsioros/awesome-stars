@@ -344,6 +344,8 @@
 
 ## Go 
 
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a single secure private WireGuard®-based mesh network with SSO/MFA and simple access controls.
 - [wiltonsr/ldapAuth](https://github.com/wiltonsr/ldapAuth) - An open source Traefik Middleware that enables authentication via LDAP in a similar way to Traefik Enterprise
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
