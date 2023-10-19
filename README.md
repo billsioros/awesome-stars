@@ -790,6 +790,7 @@
 
 ## Python 
 
+- [gudgud96/frechet-audio-distance](https://github.com/gudgud96/frechet-audio-distance) - A lightweight library for Frechet Audio Distance calculation.
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [PanQiWei/AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ) - An easy-to-use LLMs quantization package with user-friendly apis, based on GPTQ algorithm.
 - [MechanicalSoup/MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
@@ -895,7 +896,7 @@
 - [facebookresearch/ImageBind](https://github.com/facebookresearch/ImageBind) - ImageBind One Embedding Space to Bind Them All
 - [jd/tenacity](https://github.com/jd/tenacity) - Retrying library for Python
 - [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry) - LLM training code for MosaicML foundation models
-- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards multimodal GPT-4 level capabilities.
+- [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS 2023 Oral] Visual Instruction Tuning: LLaVA (Large Language-and-Vision Assistant) built towards GPT-4V level capabilities.
 - [Lightning-AI/lit-llama](https://github.com/Lightning-AI/lit-llama) - Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
 - [young-geng/EasyLM](https://github.com/young-geng/EasyLM) - Large language models (LLMs) made easy, EasyLM is a one stop solution for pre-training, finetuning, evaluating and serving LLMs in JAX/Flax.
 - [CarperAI/trlx](https://github.com/CarperAI/trlx) - A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)
