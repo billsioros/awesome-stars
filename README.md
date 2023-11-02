@@ -713,7 +713,7 @@
 
 ## OCaml 
 
-- [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 
 ## Odin 
@@ -802,6 +802,7 @@
 
 ## Python 
 
+- [facebookresearch/audiocraft](https://github.com/facebookresearch/audiocraft) - Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable mu
 - [oppia/oppia](https://github.com/oppia/oppia) - A free, online learning platform to make quality education accessible for all.
 - [aik2mlj/polyffusion](https://github.com/aik2mlj/polyffusion) - Polyffusion: A Diffusion Model for Polyphonic Score Generation with Internal and External Controls
 - [hche11/VGGSound](https://github.com/hche11/VGGSound) - VGGSound: A Large-scale Audio-Visual Dataset
