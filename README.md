@@ -1196,7 +1196,7 @@
 - [genforce/genforce](https://github.com/genforce/genforce) - An efficient PyTorch library for deep generative modeling.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [torchgan/torchgan](https://github.com/torchgan/torchgan) - Research Framework for easy and efficient training of GANs based on Pytorch
-- [taoufik07/responder](https://github.com/taoufik07/responder) - A familiar HTTP Service Framework for Python.
+- [kennethreitz/responder](https://github.com/kennethreitz/responder) - A familiar HTTP Service Framework for Python.
 - [pytest-dev/pytest-bdd](https://github.com/pytest-dev/pytest-bdd) - BDD library for the py.test runner
 - [pytest-dev/pytest-splinter](https://github.com/pytest-dev/pytest-splinter) - pytest splinter and selenium integration for anyone interested in browser interaction in tests
 - [seandstewart/typical](https://github.com/seandstewart/typical) - Typical: Fast, simple, & correct data-validation using Python 3 typing.
