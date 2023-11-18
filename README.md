@@ -17,7 +17,6 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
-- [Fluent](#fluent)
 - [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -341,10 +340,6 @@
 
 - [plausible/analytics](https://github.com/plausible/analytics) - Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.
 - [elixir-lang/elixir](https://github.com/elixir-lang/elixir) - Elixir is a dynamic, functional language for building scalable and maintainable applications
-
-## Fluent 
-
-- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 
 ## GLSL 
 
@@ -1846,6 +1841,7 @@
 - [onivim/oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [Learus/react-material-ui-carousel](https://github.com/Learus/react-material-ui-carousel) - A Generic carousel UI component for React using Material UI.
 - [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
+- [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
 
 ## V 
