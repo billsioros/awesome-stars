@@ -727,7 +727,6 @@
 ## OCaml 
 
 - [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 
 ## Odin 
 
@@ -1521,6 +1520,7 @@
 - [PanPapag/DANN](https://github.com/PanPapag/DANN) - Unsupervised Domain Adaptation by Backpropagation
 - [gleitz/howdoi](https://github.com/gleitz/howdoi) - instant coding answers via the command line
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [Instagram/MonkeyType](https://github.com/Instagram/MonkeyType) - A Python library that generates static type annotations by collecting runtime types
 - [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree) - A command line utility to display dependency tree of the installed Python packages
 - [PanPapag/Zero-Learning-Fast-Medical-Image-Fusion](https://github.com/PanPapag/Zero-Learning-Fast-Medical-Image-Fusion) - A real-time image fusion method using pre-trained neural networks
@@ -1865,6 +1865,7 @@
 
 ## Vue 
 
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - A beautiful home server OS for self-hosting with an app store. Buy a pre-built Umbrel Home with umbrelOS, or install on a Raspberry Pi 4, any Ubuntu/Debian system, or a VPS.
 - [vueComponent/ant-design-vue](https://github.com/vueComponent/ant-design-vue) - 🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜
 - [cbaziotis/neat-vision](https://github.com/cbaziotis/neat-vision) - Neat (Neural Attention) Vision, is a visualization tool for the attention mechanisms of deep-learning models for Natural Language Processing (NLP) tasks. (framework-agnostic)
