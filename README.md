@@ -485,7 +485,7 @@
 - [rstudio/rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
 - [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) - Hopsworks - Data-Intensive AI platform with a Feature Store
 - [facebook/react-native](https://github.com/facebook/react-native) - A framework for building native applications using React
-- [luggit/react-native-config](https://github.com/luggit/react-native-config) - Bring some 12 factor love to your mobile apps!
+- [lugg/react-native-config](https://github.com/lugg/react-native-config) - Bring some 12 factor love to your mobile apps!
 - [devnied/EMV-NFC-Paycard-Enrollment](https://github.com/devnied/EMV-NFC-Paycard-Enrollment) - A Java library used to read and extract data from NFC EMV credit cards (Android/PCSC).
 - [logisim-evolution/logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) - Digital logic design tool and simulator
 - [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
