@@ -90,6 +90,7 @@
 - [baziotis/dicc](https://github.com/baziotis/dicc) - A compiler for a subset of C written in C.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
+- [cycfi/elements](https://github.com/cycfi/elements) - Elements C++ GUI library
 - [vivien/i3blocks](https://github.com/vivien/i3blocks) - The hacker-friendly status_command for Sway and i3
 - [pfultz2/Cloak](https://github.com/pfultz2/Cloak) - A mini-preprocessor library to demostrate the recursive capabilites of the preprocessor
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
@@ -254,7 +255,6 @@
 - [copperspice/copperspice](https://github.com/copperspice/copperspice) - Set of cross platform C++ libraries (Gui, Network, Multimedia, etc)
 - [taocpp/sequences](https://github.com/taocpp/sequences) - Variadic templates and std::integer_sequence support library
 - [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
-- [cycfi/elements](https://github.com/cycfi/elements) - Elements C++ GUI library
 - [iliastsa/sigmod-benchmarks](https://github.com/iliastsa/sigmod-benchmarks) - Various benchmarks of the SIGMOD 2019 UoA team
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
@@ -320,7 +320,7 @@
 
 ## Dart 
 
-- [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [Sangwan5688/BlackHole](https://github.com/Sangwan5688/BlackHole) - A Music Player App made with Flutter
 - [harmonoid/harmonoid](https://github.com/harmonoid/harmonoid) - Plays & manages your music library. Looks beautiful & juicy. Playlists, visuals, synced lyrics, pitch shift, volume boost & more.
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
@@ -1103,7 +1103,7 @@
 - [minimaxir/stylecloud](https://github.com/minimaxir/stylecloud) - Python package + CLI to generate stylistic wordclouds, including gradients and icon shapes!
 - [minimaxir/automl-gs](https://github.com/minimaxir/automl-gs) - Provide an input CSV and a target field to predict, generate a model + code to run it.
 - [minimaxir/aitextgen](https://github.com/minimaxir/aitextgen) - A robust Python tool for text-based AI training and generation using GPT-2.
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow) - 🌊 A Human-in-the-Loop workflow for creating HD images from text
 - [unifyai/ivy](https://github.com/unifyai/ivy) - The Unified AI Framework
 - [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) - Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
