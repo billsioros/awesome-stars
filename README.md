@@ -451,6 +451,7 @@
 
 ## HTML 
 
+- [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
 - [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy) - The easiest way to run WireGuard VPN + Web-based Admin UI.
 - [facebookresearch/fastText](https://github.com/facebookresearch/fastText) - Library for fast text representation and classification.
 - [Instruction-Tuning-with-GPT-4/GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM) - Instruction Tuning with GPT-4
