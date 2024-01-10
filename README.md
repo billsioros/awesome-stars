@@ -365,7 +365,6 @@
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes
 - [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners
@@ -530,7 +529,7 @@
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [alyssaxuu/slashy](https://github.com/alyssaxuu/slashy) - Supercharge Notion with custom commands to record, draw, and more ✍️
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale, as easy as 1-2-3. Serverless & distributed out-of-the-box. Never fail to scale!
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Test anything - web apps, HTTP APIs, GraphQL, Socket.io, WebSocket and more. Use any Node.js module. Never fail to scale!
 - [googlecreativelab/teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [ColinEberhardt/wasm-sudoku-solver](https://github.com/ColinEberhardt/wasm-sudoku-solver) - a WebAssembly-powered AR sudoku solver
@@ -838,6 +837,7 @@
 - [omry/omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
 - [yangdongchao/SoundStorm](https://github.com/yangdongchao/SoundStorm) - The reproduced code for Google's SoundStorm
 - [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) - Download a large file from Google Drive  (curl/wget fails because of the security notice).
 - [gudgud96/frechet-audio-distance](https://github.com/gudgud96/frechet-audio-distance) - A lightweight library for Frechet Audio Distance calculation.
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
@@ -1204,7 +1204,7 @@
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
 - [pytorch/audio](https://github.com/pytorch/audio) - Data manipulation and transformation for audio signal processing, powered by PyTorch
 - [kivy/buildozer](https://github.com/kivy/buildozer) - Generic Python packager for Android and iOS
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for AI
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for SpatialAI
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [python-versioneer/python-versioneer](https://github.com/python-versioneer/python-versioneer) - version-string management for VCS-controlled trees
@@ -1745,7 +1745,7 @@
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator) - Use AI to translate code from one language to another.
 - [mckaywrigley/paul-graham-gpt](https://github.com/mckaywrigley/paul-graham-gpt) - AI search & chat for all of Paul Graham’s essays.
-- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat interface for everyone.
+- [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - The open-source AI chat app for everyone.
 - [itavero/vscode-cpm-cmake-manager](https://github.com/itavero/vscode-cpm-cmake-manager) - Provides an easy way to manage packages included using CPM.cmake from within Visual Studio Code.
 - [serverless-nextjs/serverless-next.js](https://github.com/serverless-nextjs/serverless-next.js) - ⚡ Deploy your Next.js apps on AWS Lambda@Edge via Serverless Components
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
