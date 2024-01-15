@@ -254,7 +254,7 @@
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [ChaiScript/ChaiScript](https://github.com/ChaiScript/ChaiScript) - Embedded Scripting Language Designed for C++
 - [nemequ/hedley](https://github.com/nemequ/hedley) - A C/C++ header to help move #ifdefs out of your code
-- [PanosK92/SpartanEngine](https://github.com/PanosK92/SpartanEngine) - A game engine with an emphasis on real-time cutting edge solutions
+- [PanosK92/SpartanEngine](https://github.com/PanosK92/SpartanEngine) - A game engine with an emphasis on real-time cutting-edge solutions
 - [PanosK92/imgui](https://github.com/PanosK92/imgui) - Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies
 - [jnferguson/hpack-rfc7541](https://github.com/jnferguson/hpack-rfc7541) - header-only c++ implementation of a HTTPv2 HPACK/RFC7541 encoder /decoder
 - [muellan/clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
