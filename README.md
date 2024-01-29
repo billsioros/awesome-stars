@@ -436,7 +436,7 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [fogleman/primitive](https://github.com/fogleman/primitive) - Reproducing images with geometric primitives.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
-- [skx/monkey](https://github.com/skx/monkey) - An interpreted languages written in Go
+- [skx/monkey](https://github.com/skx/monkey) - An interpreted language written in Go
 - [mit-pdos/biscuit](https://github.com/mit-pdos/biscuit) - Biscuit research OS
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [kashav/fsql](https://github.com/kashav/fsql) - Search for files using a fun query language
@@ -766,7 +766,7 @@
 - [radix-ai/awesome-machine-learning-engineer](https://github.com/radix-ai/awesome-machine-learning-engineer) - 🤓 A curated awesome list of Machine Learning Engineering resources. Feel free to contribute!
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [chris-chris/ml-engineer-roadmap](https://github.com/chris-chris/ml-engineer-roadmap) - WIP: Roadmap to becoming a machine learning engineer in 2020
-- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2023
+- [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2024
 - [DmytroLitvinov/awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - :octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:
 - [soumith/ganhacks](https://github.com/soumith/ganhacks) - starter from "How to Train a GAN?" at NIPS2016
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
@@ -824,6 +824,7 @@
 
 ## Python 
 
+- [Buuntu/fastapi-react](https://github.com/Buuntu/fastapi-react) - 🚀   Cookiecutter Template for FastAPI + React Projects.  Using PostgreSQL, SQLAlchemy, and Docker
 - [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks
 - [dbcli/pgcli](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 - [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer.
@@ -925,7 +926,7 @@
 - [facebookresearch/VLaMP](https://github.com/facebookresearch/VLaMP) - Code for “Pretrained Language Models as Visual Planners for Human Assistance”
 - [br3ndonland/inboard](https://github.com/br3ndonland/inboard) - :ship: Docker images and utilities to power your Python APIs and help you ship faster. With support for Uvicorn, Gunicorn, Starlette, and FastAPI.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
-- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational
+- [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [JiauZhang/DragGAN](https://github.com/JiauZhang/DragGAN) - Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
 - [huggingface/optimum](https://github.com/huggingface/optimum) - 🚀 Accelerate training and inference of 🤗 Transformers and 🤗 Diffusers with easy to use hardware optimization tools
