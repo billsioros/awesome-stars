@@ -1211,7 +1211,7 @@
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale) - PyTorch extensions for high performance and large scale training.
 - [pytorch/audio](https://github.com/pytorch/audio) - Data manipulation and transformation for audio signal processing, powered by PyTorch
 - [kivy/buildozer](https://github.com/kivy/buildozer) - Generic Python packager for Android and iOS
-- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for SpatialAI
+- [kornia/kornia](https://github.com/kornia/kornia) - Geometric Computer Vision Library for Spatial AI
 - [scanapi/scanapi](https://github.com/scanapi/scanapi) - Automated Integration Testing and Live Documentation for your API
 - [PyCQA/pycodestyle](https://github.com/PyCQA/pycodestyle) - Simple Python style checker in one Python file
 - [python-versioneer/python-versioneer](https://github.com/python-versioneer/python-versioneer) - version-string management for VCS-controlled trees
