@@ -1020,7 +1020,7 @@
 - [activeloopai/deeplake](https://github.com/activeloopai/deeplake) - Database for AI. Store Vectors, Images, Texts, Videos, etc. Use with LLMs/LangChain. Store, query, version, & visualize any AI data. Stream data in real-time to PyTorch/TensorFlow. https://activeloop.
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [trallnag/prometheus-fastapi-instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) - Instrument your FastAPI with Prometheus metrics.
-- [Intility/fastapi-azure-auth](https://github.com/Intility/fastapi-azure-auth) - Easy and secure implementation of Azure AD for your FastAPI APIs 🔒 B2C, single- and multi-tenant support.
+- [Intility/fastapi-azure-auth](https://github.com/Intility/fastapi-azure-auth) - Easy and secure implementation of Azure Entra ID (previously AD) for your FastAPI APIs 🔒 B2C, single- and multi-tenant support.
 - [spec-first/connexion](https://github.com/spec-first/connexion) - Connexion is a modern Python web framework that makes spec-first and api-first development easy.
 - [madkote/fastapi-plugins](https://github.com/madkote/fastapi-plugins) - FastAPI framework plugins
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
