@@ -261,7 +261,7 @@
 - [jnferguson/hpack-rfc7541](https://github.com/jnferguson/hpack-rfc7541) - header-only c++ implementation of a HTTPv2 HPACK/RFC7541 encoder /decoder
 - [muellan/clipp](https://github.com/muellan/clipp) - easy to use, powerful & expressive command line argument parsing for modern C++ / single header / usage & doc generation
 - [brunocodutra/metal](https://github.com/brunocodutra/metal) - Love template metaprogramming
-- [copperspice/copperspice](https://github.com/copperspice/copperspice) - Set of cross platform C++ libraries (Gui, Network, Multimedia, etc)
+- [copperspice/copperspice](https://github.com/copperspice/copperspice) - Set of cross platform C++ libraries (Core, Gui, Network, Multimedia, SQL, Vulkan, etc)
 - [taocpp/sequences](https://github.com/taocpp/sequences) - Variadic templates and std::integer_sequence support library
 - [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
 - [iliastsa/sigmod-benchmarks](https://github.com/iliastsa/sigmod-benchmarks) - Various benchmarks of the SIGMOD 2019 UoA team
