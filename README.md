@@ -826,6 +826,7 @@
 
 ## Python 
 
+- [whitead/paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
 - [craffel/mir_eval](https://github.com/craffel/mir_eval) - Evaluation functions for music/audio information retrieval/signal processing algorithms.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
@@ -872,7 +873,7 @@
 - [CodedotAl/gpt-code-clippy](https://github.com/CodedotAl/gpt-code-clippy) - Full description can be found here: https://discuss.huggingface.co/t/pretrain-gpt-neo-for-open-source-github-copilot-model/7678?u=ncoop57
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [dbrattli/Expression](https://github.com/dbrattli/Expression) - Pragmatic functional programming for Python inspired by F#
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [yezz123/fastango](https://github.com/yezz123/fastango) - Simplifies class-based views for more organized and maintainable code in FastAPI ✨
 - [dagster-io/dagster](https://github.com/dagster-io/dagster) - An orchestration platform for the development, production, and observation of data assets.
 - [mosquito/aiormq](https://github.com/mosquito/aiormq) - Pure python AMQP 0.9.1 asynchronous client library
@@ -1455,7 +1456,7 @@
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [flask-api/flask-api](https://github.com/flask-api/flask-api) - Browsable web APIs for Flask.
-- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - Multi-purpose automation framework: Web crawling, scraping, testing, and reporting. (Python / pytest). UC Mode provides stealth. Over 200 examples.
+- [seleniumbase/SeleniumBase](https://github.com/seleniumbase/SeleniumBase) - 📊 All-in-one automation framework: Web crawling, scraping, testing, and reporting. (Python | pytest). UC Mode provides stealth. Over 200 examples.
 - [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller) - Freeze (package) Python programs into stand-alone executables
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats) - This GitHub action helps to add cool dev metrics to your github profile Readme
