@@ -780,7 +780,7 @@
 - [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject) - An Awesome List of projects using the pyproject.toml Python configuration file.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [llogiq/stdx-dev](https://github.com/llogiq/stdx-dev) - Rust's missing development batteries
-- [rangav/thunder-client-support](https://github.com/rangav/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
+- [thunderclient/thunder-client-support](https://github.com/thunderclient/thunder-client-support) - Thunder Client is a lightweight Rest API Client Extension for VS Code.
 - [stevemao/github-issue-templates](https://github.com/stevemao/github-issue-templates) - 🔣 A collection of GitHub issue, pull request and security templates
 - [devspace/awesome-github-templates](https://github.com/devspace/awesome-github-templates) - :octocat: Curated list of GitHub Issues and Pull Requests templates
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
