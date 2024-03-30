@@ -98,7 +98,6 @@
 - [baziotis/dicc](https://github.com/baziotis/dicc) - A compiler for a subset of C written in C.
 - [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 - [vstakhov/libucl](https://github.com/vstakhov/libucl) - Universal configuration library parser
-- [cycfi/elements](https://github.com/cycfi/elements) - Elements C++ GUI library
 - [vivien/i3blocks](https://github.com/vivien/i3blocks) - The hacker-friendly status_command for Sway and i3
 - [pfultz2/Cloak](https://github.com/pfultz2/Cloak) - A mini-preprocessor library to demostrate the recursive capabilites of the preprocessor
 - [lz4/lz4](https://github.com/lz4/lz4) - Extremely Fast Compression algorithm
@@ -264,6 +263,7 @@
 - [copperspice/copperspice](https://github.com/copperspice/copperspice) - Set of cross platform C++ libraries (Core, Gui, Network, Multimedia, SQL, Vulkan, etc)
 - [taocpp/sequences](https://github.com/taocpp/sequences) - Variadic templates and std::integer_sequence support library
 - [xtensor-stack/xtensor](https://github.com/xtensor-stack/xtensor) - C++ tensors with broadcasting and lazy computing
+- [cycfi/elements](https://github.com/cycfi/elements) - Elements C++ GUI library
 - [iliastsa/sigmod-benchmarks](https://github.com/iliastsa/sigmod-benchmarks) - Various benchmarks of the SIGMOD 2019 UoA team
 - [microsoft/terminal](https://github.com/microsoft/terminal) - The new Windows Terminal and the original Windows console host, all in the same place!
 - [p-ranav/argparse](https://github.com/p-ranav/argparse) - Argument Parser for Modern C++
