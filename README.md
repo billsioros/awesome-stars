@@ -197,7 +197,7 @@
 - [flashlight/flashlight](https://github.com/flashlight/flashlight) - A C++ standalone library for machine learning
 - [dfeneyrou/palanteer](https://github.com/dfeneyrou/palanteer) - Visual Python and C++ nanosecond profiler, logger, tests enabler
 - [sharkdp/dbg-macro](https://github.com/sharkdp/dbg-macro) - A dbg(…) macro for C++
-- [Redis-Insight/RedisDesktopManager](https://github.com/Redis-Insight/RedisDesktopManager) - 
+- [RedisInsight/RedisDesktopManager](https://github.com/RedisInsight/RedisDesktopManager) - 
 - [doctest/doctest](https://github.com/doctest/doctest) - The fastest feature-rich C++11/14/17/20/23 single-header testing framework
 - [drogonframework/drogon](https://github.com/drogonframework/drogon) - Drogon: A C++14/17/20 based HTTP web application framework running on Linux/macOS/Unix/Windows
 - [xtensor-stack/xsimd](https://github.com/xtensor-stack/xsimd) - C++ wrappers for SIMD intrinsics and parallelized, optimized mathematical functions (SSE, AVX, AVX512, NEON, SVE))
@@ -362,7 +362,7 @@
 - [ariga/atlas](https://github.com/ariga/atlas) - A modern tool for managing database schemas
 - [derailed/k9s](https://github.com/derailed/k9s) - 🐶 Kubernetes CLI To Manage Your Clusters In Style!
 - [prometheus-operator/prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) - Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes
-- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a Kubernetes operator that covers the full lifecycle of a PostgreSQL database cluster with a primary/standby architecture, using native streaming replication
+- [cloudnative-pg/cloudnative-pg](https://github.com/cloudnative-pg/cloudnative-pg) - CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoin
 - [zalando/postgres-operator](https://github.com/zalando/postgres-operator) - Postgres operator creates and manages PostgreSQL clusters running in Kubernetes
 - [joohoi/acme-dns](https://github.com/joohoi/acme-dns) - Limited DNS server with RESTful HTTP API to handle ACME DNS challenges easily and securely.
 - [kube-vip/kube-vip](https://github.com/kube-vip/kube-vip) - Kubernetes Control Plane Virtual IP and Load-Balancer
@@ -750,6 +750,7 @@
 
 ## Others 
 
+- [photopea/photopea](https://github.com/photopea/photopea) - Photopea is online image editor
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
@@ -830,6 +831,7 @@
 
 ## Python 
 
+- [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber) - A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology).
 - [whitead/paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
 - [craffel/mir_eval](https://github.com/craffel/mir_eval) - Evaluation functions for music/audio information retrieval/signal processing algorithms.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
@@ -1045,7 +1047,7 @@
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [darrenburns/rich-pixels](https://github.com/darrenburns/rich-pixels) - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
 - [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI) - Making large AI models cheaper, faster and more accessible
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The most flexible way to serve AI/ML models in production - Build Model Inference Service, LLM APIs, Inference Graph/Pipelines, Compound AI systems, Multi-Modal, RAG as a Service, and more!
 - [marshmallow-code/flask-smorest](https://github.com/marshmallow-code/flask-smorest) - DB agnostic framework to build auto-documented REST APIs with Flask and marshmallow
 - [python-gino/gino](https://github.com/python-gino/gino) - GINO Is Not ORM - a Python asyncio ORM on SQLAlchemy core.
 - [pika/pika](https://github.com/pika/pika) - Pure Python RabbitMQ/AMQP 0-9-1 client library
