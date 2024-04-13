@@ -1388,7 +1388,7 @@
 - [pre-commit/mirrors-mypy](https://github.com/pre-commit/mirrors-mypy) - Mirror of mypy for pre-commit
 - [cjolowicz/hypermodern-python](https://github.com/cjolowicz/hypermodern-python) - Hypermodern Python
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
-- [altair-viz/altair](https://github.com/altair-viz/altair) - Declarative statistical visualization library for Python
+- [vega/altair](https://github.com/vega/altair) - Declarative statistical visualization library for Python
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [wemake-services/wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) - The strictest and most opinionated python linter ever!
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
