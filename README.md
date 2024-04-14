@@ -831,6 +831,7 @@
 
 ## Python 
 
+- [haoheliu/audioldm_eval](https://github.com/haoheliu/audioldm_eval) - This toolbox aims to unify audio generation model evaluation for easier comparison.
 - [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber) - A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology).
 - [whitead/paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
 - [craffel/mir_eval](https://github.com/craffel/mir_eval) - Evaluation functions for music/audio information retrieval/signal processing algorithms.
