@@ -537,7 +537,7 @@
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [AkhileshNS/heroku-deploy](https://github.com/AkhileshNS/heroku-deploy) - A simple github action that dynamically deploys an app to heroku
 - [alyssaxuu/slashy](https://github.com/alyssaxuu/slashy) - Supercharge Notion with custom commands to record, draw, and more ✍️
-- [artilleryio/artillery](https://github.com/artilleryio/artillery) - Load testing at cloud-scale. Serverless & distributed out-of-the-box. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any Node.js module. Never fail to scale with Art
+- [artilleryio/artillery](https://github.com/artilleryio/artillery) - The complete load testing platform. Everything you need for production-grade load tests. Serverless & distributed. Load test with Playwright. Load test HTTP APIs, GraphQL, WebSocket, and more. Use any
 - [googlecreativelab/teachable-machine-v1](https://github.com/googlecreativelab/teachable-machine-v1) - Explore how machine learning works, live in the browser. No coding required.
 - [DustinBrett/daedalOS](https://github.com/DustinBrett/daedalOS) - Desktop environment in the browser
 - [ColinEberhardt/wasm-sudoku-solver](https://github.com/ColinEberhardt/wasm-sudoku-solver) - a WebAssembly-powered AR sudoku solver
@@ -871,7 +871,7 @@
 - [omry/omegaconf](https://github.com/omry/omegaconf) - Flexible Python configuration system. The last one you will ever need.
 - [yangdongchao/SoundStorm](https://github.com/yangdongchao/SoundStorm) - The reproduced code for Google's SoundStorm
 - [haoheliu/AudioLDM2](https://github.com/haoheliu/AudioLDM2) - Text-to-Audio/Music Generation
-- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Modern self-hosting framework, fully automated from empty disk to operating services with a single command.
+- [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [wkentaro/gdown](https://github.com/wkentaro/gdown) - Google Drive Public File Downloader when Curl/Wget Fails
 - [gudgud96/frechet-audio-distance](https://github.com/gudgud96/frechet-audio-distance) - A lightweight library for Frechet Audio Distance calculation.
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
