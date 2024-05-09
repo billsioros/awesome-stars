@@ -358,6 +358,7 @@
 
 ## Go 
 
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [linkerd/linkerd2](https://github.com/linkerd/linkerd2) - Ultralight, security-first service mesh for Kubernetes. Main repo for Linkerd 2.x.
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
@@ -659,6 +660,8 @@
 
 ## Jupyter Notebook 
 
+- [iranroman/musicinformationretrieval.com](https://github.com/iranroman/musicinformationretrieval.com) - Instructional notebooks on music information retrieval.
+- [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM from scratch, step by step
@@ -837,6 +840,7 @@
 
 ## Python 
 
+- [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch
 - [getpelican/pelican](https://github.com/getpelican/pelican) - Static site generator that supports Markdown and reST syntax. Powered by Python.
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site
 - [sentinel-hub/eo-learn](https://github.com/sentinel-hub/eo-learn) - Earth observation processing framework for machine learning in Python
