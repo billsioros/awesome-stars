@@ -179,7 +179,7 @@
 - [eth-easl/cachew](https://github.com/eth-easl/cachew) - ML Input Data Processing as a Service. This repository contains the source code for Cachew (built on top of TensorFlow).
 - [rapidsai/cuml](https://github.com/rapidsai/cuml) - cuML - RAPIDS Machine Learning Library
 - [orlp/pdqsort](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort.
-- [openai/triton](https://github.com/openai/triton) - Development repository for the Triton language and compiler
+- [triton-lang/triton](https://github.com/triton-lang/triton) - Development repository for the Triton language and compiler
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [taichi-dev/taichi](https://github.com/taichi-dev/taichi) - Productive, portable, and performant GPU programming in Python.
 - [dblalock/bolt](https://github.com/dblalock/bolt) - 10x faster matrix and vector operations
@@ -786,7 +786,7 @@
 - [MoienTajik/AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2024
 - [DmytroLitvinov/awesome-flake8-extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) - :octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:
 - [soumith/ganhacks](https://github.com/soumith/ganhacks) - starter from "How to Train a GAN?" at NIPS2016
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [semver/semver](https://github.com/semver/semver) - Semantic Versioning Specification
 - [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) - Build and run Docker containers leveraging NVIDIA GPUs
 - [DopplerHQ/awesome-bots](https://github.com/DopplerHQ/awesome-bots) - The most awesome list about bots ⭐️🤖
@@ -1014,7 +1014,7 @@
 - [mindflayer/python-mocket](https://github.com/mindflayer/python-mocket) - a socket mock framework - for all kinds of socket animals, web-clients included
 - [kapicorp/kapitan](https://github.com/kapicorp/kapitan) - Generic templated configuration management for Kubernetes, Terraform and other things
 - [ray-project/tune-sklearn](https://github.com/ray-project/tune-sklearn) - A drop-in replacement for Scikit-Learn’s GridSearchCV / RandomizedSearchCV -- but with cutting edge hyperparameter tuning techniques.
-- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
+- [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox) - An implementation of model parallel autoregressive transformers on GPUs, based on the Megatron and DeepSpeed libraries
 - [google/pytype](https://github.com/google/pytype) - A static type analyzer for Python code
 - [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes) - Accessible large language models via k-bit quantization for PyTorch.
 - [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant) - OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.
