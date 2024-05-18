@@ -841,6 +841,7 @@
 
 ## Python 
 
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [a-real-ai/pywinassistant](https://github.com/a-real-ai/pywinassistant) - The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-
 - [microsoft/torchgeo](https://github.com/microsoft/torchgeo) - TorchGeo: datasets, samplers, transforms, and pre-trained models for geospatial data
 - [huggingface/lerobot](https://github.com/huggingface/lerobot) - 🤗 LeRobot: State-of-the-art Machine Learning for Real-World Robotics in Pytorch
