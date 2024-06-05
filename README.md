@@ -360,7 +360,7 @@
 
 ## GLSL 
 
-- [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) - Examples and demos for the new Vulkan API
+- [SaschaWillems/Vulkan](https://github.com/SaschaWillems/Vulkan) - C++ examples for the Vulkan graphics API
 
 ## Go 
 
@@ -461,7 +461,7 @@
 
 ## HCL 
 
-- [brettinternet/homelab](https://github.com/brettinternet/homelab) - Resources for my self-hosted homelab
+- [brettinternet/homeops](https://github.com/brettinternet/homeops) - self-hosted devops resources in my homelab
 
 ## HTML 
 
@@ -665,6 +665,7 @@
 
 ## Jupyter Notebook 
 
+- [yassouali/pytorch-segmentation](https://github.com/yassouali/pytorch-segmentation) - :art: Semantic segmentation models, datasets and losses implemented in PyTorch.
 - [iranroman/musicinformationretrieval.com](https://github.com/iranroman/musicinformationretrieval.com) - Instructional notebooks on music information retrieval.
 - [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
