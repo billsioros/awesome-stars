@@ -461,7 +461,7 @@
 
 ## HCL 
 
-- [brettinternet/homeops](https://github.com/brettinternet/homeops) - self-hosted devops resources in my homelab
+- [brettinternet/homeops](https://github.com/brettinternet/homeops) - devops resources in my self-hosted homelab
 
 ## HTML 
 
