@@ -22,7 +22,6 @@
 - [GLSL](#glsl)
 - [Go](#go)
 - [Groovy](#groovy)
-- [HCL](#hcl)
 - [HTML](#html)
 - [Haml](#haml)
 - [Haskell](#haskell)
@@ -460,10 +459,6 @@
 - [nextflow-io/nextflow](https://github.com/nextflow-io/nextflow) - A DSL for data-driven computational pipelines
 - [gkastrinis/panda](https://github.com/gkastrinis/panda) - A Datalog compiler and library
 
-## HCL 
-
-- [brettinternet/homeops](https://github.com/brettinternet/homeops) - devops resources in my self-hosted homelab
-
 ## HTML 
 
 - [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
@@ -847,10 +842,11 @@
 
 ## Python 
 
+- [modern-python/that-depends](https://github.com/modern-python/that-depends) - DI-framework, inspired by python-dependency-injector, but without wiring. Python 3.12 is supported
 - [ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [BloodAxe/pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt) - PyTorch extensions for fast R&D prototyping and Kaggle farming
-- [qubvel/segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) - Semantic segmentation models with pretrained backbones. PyTorch.
+- [qubvel/segmentation_models.pytorch](https://github.com/qubvel/segmentation_models.pytorch) - Semantic segmentation models with pretrained convolutional and transformer-based backbones. PyTorch.
 - [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
 - [Lightning-AI/lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - Make PyTorch models up to 40% faster! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once; across one or thousands of GPUs.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -1711,6 +1707,7 @@
 ## Shell 
 
 - [papers-we-love/papers-we-love](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.
+- [brettinternet/homeops](https://github.com/brettinternet/homeops) - devops resources in my self-hosted homelab
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [kylemanna/docker-openvpn](https://github.com/kylemanna/docker-openvpn) - 🔒 OpenVPN server in a Docker container complete with an EasyRSA PKI CA
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
