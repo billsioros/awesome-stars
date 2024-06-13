@@ -847,6 +847,7 @@
 
 ## Python 
 
+- [karpathy/build-nanogpt](https://github.com/karpathy/build-nanogpt) - Video+code lecture on building nanoGPT from scratch
 - [modern-python/that-depends](https://github.com/modern-python/that-depends) - DI-framework, inspired by python-dependency-injector, but without wiring. Python 3.12 is supported
 - [ToonCrafter/ToonCrafter](https://github.com/ToonCrafter/ToonCrafter) - a research paper for generative cartoon interpolation
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
