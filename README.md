@@ -242,7 +242,7 @@
 - [Learus/solar-system-opengl](https://github.com/Learus/solar-system-opengl) - A simple solar system (Sun, Earth, Moon) created with OpenGL
 - [ROCm/HIP](https://github.com/ROCm/HIP) - HIP: C++ Heterogeneous-Compute Interface for Portability
 - [marprok/FileExplorer2](https://github.com/marprok/FileExplorer2) - A better version of FileExplorer.
-- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Parallel and Heterogeneous Task Programming System
+- [taskflow/taskflow](https://github.com/taskflow/taskflow) - A General-purpose Task-parallel Programming System using Modern C++
 - [mlpack/mlpack](https://github.com/mlpack/mlpack) - mlpack: a fast, header-only C++ machine learning library
 - [WilhelmStein/Befunge-93-plus](https://github.com/WilhelmStein/Befunge-93-plus) - A vm for the language Befunge-93+, written in C++
 - [cmderdev/cmder](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows
