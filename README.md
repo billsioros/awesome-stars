@@ -982,7 +982,7 @@
 - [koaning/mktestdocs](https://github.com/koaning/mktestdocs) - Run pytest against markdown files/docstrings.
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
 - [dsdanielpark/Bard-API](https://github.com/dsdanielpark/Bard-API) - The unofficial python package that returns response of Google Bard through cookie value.
-- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
+- [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt) - Load, pretrain, finetune, deploy 20+ LLMs on your own data. Uses state-of-the-art techniques: flash attention, FSDP, 4-bit, LoRA, and more.
 - [emcf/engshell](https://github.com/emcf/engshell) - An English-language shell for any OS, powered by LLMs
 - [aws/deep-learning-containers](https://github.com/aws/deep-learning-containers) - AWS Deep Learning Containers (DLCs) are a set of Docker images for training and serving models in TensorFlow, TensorFlow 2, PyTorch, and MXNet.
 - [spyoungtech/grequests](https://github.com/spyoungtech/grequests) - Requests + Gevent = &lt;3
