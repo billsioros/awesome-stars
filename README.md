@@ -1111,7 +1111,7 @@
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy
-- [Alexis-benoist/eralchemy](https://github.com/Alexis-benoist/eralchemy) - Entity Relation Diagrams generation tool
+- [eralchemy/eralchemy](https://github.com/eralchemy/eralchemy) - Entity Relation Diagrams generation tool
 - [vimalloc/flask-jwt-extended](https://github.com/vimalloc/flask-jwt-extended) - An open source Flask extension that provides JWT support (with batteries included)!
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
 - [randy3k/radian](https://github.com/randy3k/radian) - A 21 century R console
