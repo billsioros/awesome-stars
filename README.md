@@ -43,6 +43,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [PowerShell](#powershell)
+- [PureBasic](#purebasic)
 - [Python](#python)
 - [QML](#qml)
 - [Roff](#roff)
@@ -861,6 +862,10 @@
 - [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) - A PowerShell module to show file and folder icons in the terminal
 - [dahlbyk/posh-git](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
 - [microsoft/WSL](https://github.com/microsoft/WSL) - Issues found on WSL
+
+## PureBasic 
+
+- [patrik-ha/explainable-minichess](https://github.com/patrik-ha/explainable-minichess) - Chess environment for smaller chess variants, AlphaZero-like MCTS-learning, and Concept Detection
 
 ## Python 
 
