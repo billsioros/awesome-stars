@@ -1404,7 +1404,7 @@
 - [wntrblm/nox](https://github.com/wntrblm/nox) - Flexible test automation for Python
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
-- [pydoit/doit](https://github.com/pydoit/doit) - task management & automation tool
+- [pydoit/doit](https://github.com/pydoit/doit) - CLI task management & automation tool
 - [pytoolz/toolz](https://github.com/pytoolz/toolz) - A functional standard library for Python.
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [agronholm/typeguard](https://github.com/agronholm/typeguard) - Run-time type checker for Python
