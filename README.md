@@ -868,6 +868,7 @@
 
 ## Python 
 
+- [compilerla/conventional-pre-commit](https://github.com/compilerla/conventional-pre-commit) - A pre-commit hook that checks commit messages for Conventional Commits formatting
 - [s3rius/FastAPI-template](https://github.com/s3rius/FastAPI-template) - Feature rich robust FastAPI template.
 - [InternLM/MindSearch](https://github.com/InternLM/MindSearch) - 🔍 An LLM-based Multi-agent Framework of Web Search Engine (like Perplexity.ai Pro and SearchGPT)
 - [meadsteve/lagom](https://github.com/meadsteve/lagom) - 📦 Autowiring dependency injection container for python 3
@@ -900,7 +901,7 @@
 - [aixcoder-plugin/aiXcoder-7B](https://github.com/aixcoder-plugin/aiXcoder-7B) - official repository of aiXcoder-7B Code Large Language Model
 - [haoheliu/audioldm_eval](https://github.com/haoheliu/audioldm_eval) - This toolbox aims to unify audio generation model evaluation for easier comparison.
 - [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber) - A simple tool to update bib entries with their official information (e.g., DBLP or the ACL anthology).
-- [whitead/paper-qa](https://github.com/whitead/paper-qa) - LLM Chain for answering questions from documents with citations
+- [Future-House/paper-qa](https://github.com/Future-House/paper-qa) - LLM Chain for answering questions from documents with citations
 - [craffel/mir_eval](https://github.com/craffel/mir_eval) - Evaluation functions for music/audio information retrieval/signal processing algorithms.
 - [fail2ban/fail2ban](https://github.com/fail2ban/fail2ban) - Daemon to ban hosts that cause multiple authentication errors
 - [airtai/faststream](https://github.com/airtai/faststream) - FastStream is a powerful and easy-to-use Python framework for building asynchronous services interacting with event streams such as Apache Kafka, RabbitMQ, NATS and Redis.
@@ -1082,7 +1083,7 @@
 - [vitalik/django-ninja](https://github.com/vitalik/django-ninja) - 💨  Fast, Async-ready, Openapi, type hints based framework for building APIs
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch) - Implementation of RLHF (Reinforcement Learning with Human Feedback) on top of the PaLM architecture. Basically ChatGPT but with PaLM
-- [tiangolo/sqlmodel](https://github.com/tiangolo/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [pinterest/pymemcache](https://github.com/pinterest/pymemcache) - A comprehensive, fast, pure-Python memcached client.
 - [grantjenks/python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
@@ -1740,6 +1741,7 @@
 
 ## Scala 
 
+- [chipsalliance/chisel](https://github.com/chipsalliance/chisel) - Chisel: A Modern Hardware Design Language
 - [metarank/metarank](https://github.com/metarank/metarank) - A low code Machine Learning personalized ranking service for articles, listings, search results, recommendations that boosts user engagement. A friendly Learn-to-Rank engine
 
 ## Shell 
