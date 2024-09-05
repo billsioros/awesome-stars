@@ -1262,7 +1262,7 @@
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots) - Matplotlib styles for scientific plotting
 - [martisak/dotnets](https://github.com/martisak/dotnets) - Create simple drawings of neural networks using graphviz
-- [tantale/deprecated](https://github.com/tantale/deprecated) - Python @deprecated decorator to deprecate old python classes, functions or methods.
+- [laurent-laporte-pro/deprecated](https://github.com/laurent-laporte-pro/deprecated) - Python @deprecated decorator to deprecate old python classes, functions or methods.
 - [mseitzer/pytorch-fid](https://github.com/mseitzer/pytorch-fid) - Compute FID scores with PyTorch.
 - [scipy/scipy](https://github.com/scipy/scipy) - SciPy library main repository
 - [jazzband/django-push-notifications](https://github.com/jazzband/django-push-notifications) - Send push notifications to mobile devices through GCM or APNS in Django.
@@ -1935,7 +1935,7 @@
 - [github/codeql-action](https://github.com/github/codeql-action) - Actions for running CodeQL analysis
 - [JamesIves/github-pages-deploy-action](https://github.com/JamesIves/github-pages-deploy-action) - 🚀 Automatically deploy your project to GitHub Pages using GitHub Actions. This action can be configured to push your production-ready code into any branch you'd like.
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) - GitHub Pull Requests for Visual Studio Code
-- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. Accuracy of this version is 40-60%, accuracy of the commercial Fingerprint Identification is 99.5%. V4 of this library is BSL licensed.
+- [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library. BSL licensed.
 - [ikatyang/emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet) - A markdown version emoji cheat sheet
 - [actions/labeler](https://github.com/actions/labeler) - An action for automatically labelling pull requests
 - [github/issue-labeler](https://github.com/github/issue-labeler) - An action for automatically labelling issues
