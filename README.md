@@ -61,6 +61,7 @@
 - [VBScript](#vbscript)
 - [Vue](#vue)
 - [WebAssembly](#webassembly)
+- [YAML](#yaml)
 - [Zig](#zig)
 - [reStructuredText](#restructuredtext)
 
@@ -1795,7 +1796,7 @@
 - [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
 - [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 - [powerline/fonts](https://github.com/powerline/fonts) - Patched fonts for Powerline users.
 - [tj/n](https://github.com/tj/n) - Node version management
@@ -2005,6 +2006,10 @@
 ## WebAssembly 
 
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+
+## YAML 
+
+- [buroa/k8s-gitops](https://github.com/buroa/k8s-gitops) - Fiancé-approved geeked homelab k8s cluster deployed on 🍏 Mac Minis with Talos Linux; automated via Flux, Renovate and GitHub Actions 🤖
 
 ## Zig 
 
