@@ -1342,7 +1342,7 @@
 - [docker/docker-py](https://github.com/docker/docker-py) - A Python library for the Docker Engine API
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
-- [google/jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [python/typeshed](https://github.com/python/typeshed) - Collection of library stubs for Python, with static types
 - [pyupio/safety](https://github.com/pyupio/safety) - Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.
 - [asottile/astpretty](https://github.com/asottile/astpretty) - Pretty print the output of python stdlib `ast.parse`.
