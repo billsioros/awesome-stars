@@ -467,6 +467,7 @@
 
 ## HCL 
 
+- [szinn/k8s-homelab](https://github.com/szinn/k8s-homelab) - My home operations repository using k8s/gitops
 - [bjw-s-labs/home-ops](https://github.com/bjw-s-labs/home-ops) - My home or for-home infrastructure written as code, adhering to GitOps practices
 - [xunholy/k8s-gitops](https://github.com/xunholy/k8s-gitops) - Kubernetes cluster powered by GitOps with FluxCD- Unified source of truth, automated workflows, declarative infrastructure, and cutting-edge DevOps practices.
 - [ahinko/home-ops](https://github.com/ahinko/home-ops) - Homelab & Gitops, Infrastructure as Code (IaC) where possible. K8s cluster running on Talos and managed by Flux. Renovate keeps the repo up to date.
@@ -508,7 +509,7 @@
 
 ## Java 
 
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Infinitely scalable, event-driven, language-agnostic orchestration and scheduling platform to manage millions of workflows declaratively in code and from the UI.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
 - [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool) - Style and Grammar Checker for 25+ Languages
 - [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Metadata Platform for your Data Stack
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -690,7 +691,7 @@
 - [DataTalksClub/llm-zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp) - LLM Zoomcamp - a free online course about building a Q&A system
 - [yassouali/pytorch-segmentation](https://github.com/yassouali/pytorch-segmentation) - :art: Semantic segmentation models, datasets and losses implemented in PyTorch.
 - [iranroman/musicinformationretrieval.com](https://github.com/iranroman/musicinformationretrieval.com) - Instructional notebooks on music information retrieval.
-- [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Create Magic Story!
+- [HVision-NKU/StoryDiffusion](https://github.com/HVision-NKU/StoryDiffusion) - Accepted as [NeurIPS 2024] Spotlight Presentation Paper
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) - Free MLOps course from DataTalks.Club
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
@@ -905,7 +906,7 @@
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
 - [BloodAxe/pytorch-toolbelt](https://github.com/BloodAxe/pytorch-toolbelt) - PyTorch extensions for fast R&D prototyping and Kaggle farming
 - [qubvel-org/segmentation_models.pytorch](https://github.com/qubvel-org/segmentation_models.pytorch) - Semantic segmentation models with 500+ pretrained convolutional and transformer-based backbones.
-- [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection
+- [THU-MIG/yolov10](https://github.com/THU-MIG/yolov10) - YOLOv10: Real-Time End-to-End Object Detection [NeurIPS 2024]
 - [Lightning-AI/lightning-thunder](https://github.com/Lightning-AI/lightning-thunder) - Make PyTorch models up to 40% faster! Thunder is a source to source compiler for PyTorch. It enables using different hardware executors at once; across one or thousands of GPUs.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [a-real-ai/pywinassistant](https://github.com/a-real-ai/pywinassistant) - The first open source Large Action Model generalist Artificial Narrow Intelligence that controls completely human user interfaces by only using natural language. PyWinAssistant utilizes Visualization-
