@@ -134,7 +134,6 @@
 - [keijiro/KinoMotion](https://github.com/keijiro/KinoMotion) - Motion blur post-processing effect for Unity
 - [SebLague/Geographical-Adventures](https://github.com/SebLague/Geographical-Adventures) - 
 - [6bee/Remote.Linq](https://github.com/6bee/Remote.Linq) - Simply LINQ your remote resources...
-- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [Scrawk/Ceto](https://github.com/Scrawk/Ceto) - Ceto: Ocean system for Unity
 - [fluentassertions/fluentassertions](https://github.com/fluentassertions/fluentassertions) - A very extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit tests. Targets .NET Framework 4.7, as well as .NET Core 2.1, .NET Cor
 - [ntovas/AdventOfCode](https://github.com/ntovas/AdventOfCode) - 
@@ -884,6 +883,8 @@
 
 ## Python 
 
+- [FlorianWilhelm/the-hatchlor](https://github.com/FlorianWilhelm/the-hatchlor) - 🌹 Cookiecutter template featuring the modern and extensible Python project manager hatch
+- [Neoteroi/GuardPost](https://github.com/Neoteroi/GuardPost) - Classes to handle authentication and authorization for async Python application.
 - [AnswerDotAI/RAGatouille](https://github.com/AnswerDotAI/RAGatouille) - Easily use and train state of the art late-interaction retrieval methods (ColBERT) in any RAG pipeline. Designed for modularity and ease-of-use, backed by research.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [OpenBMB/MiniCPM-V](https://github.com/OpenBMB/MiniCPM-V) - MiniCPM-V 2.6: A GPT-4V Level MLLM for Single Image, Multi Image and Video on Your Phone
@@ -1692,6 +1693,7 @@
 
 ## Rust 
 
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Build AI apps that have the full context. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
