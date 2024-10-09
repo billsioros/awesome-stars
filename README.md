@@ -1857,6 +1857,7 @@
 
 ## TypeScript 
 
+- [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding
 - [oguimbal/pg-mem](https://github.com/oguimbal/pg-mem) - An in memory postgres DB instance for your unit tests
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
